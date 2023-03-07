@@ -31,3 +31,33 @@ Graeber, David, and David Wengrow. *The Dawn of Everything: A New History of Hum
 #### Reading Assignments
 
 Students are expected to read approximately 40-50 pages a week as the basis for class discussion. Length of readings is indicated for each session/week. For more detail, see the {{% resource_link "48098d0a-e0a4-4c11-bfe0-31b7aff16672" "Readings" %}} section.
+
+#### Grading Policy
+
+{{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}{{< trclose >}}{{< theadclose >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
+Attendance and participation
+{{< tdclose >}}{{< tdopen >}}
+20%
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
+Presentations (2 x 4)
+{{< tdclose >}}{{< tdopen >}}
+8%
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
+Commentary papers (4 x 8% each)
+{{< tdclose >}}{{< tdopen >}}
+32%
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
+Ritual design
+{{< tdclose >}}{{< tdopen >}}
+8%
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
+Research papers (2 x 16% each)
+{{< tdclose >}}{{< tdopen >}}
+32%
+{{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
+
+For detail on the activities above, see the {{% resource_link "cdc992c6-0573-497d-8ab0-f07da01975f1" "Assignments" %}} section.
