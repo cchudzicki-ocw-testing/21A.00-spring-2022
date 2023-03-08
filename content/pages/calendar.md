@@ -124,11 +124,11 @@ Can rituals be designed?
 {{< tdclose >}}{{< tdopen >}}
 RITUAL WORKSHOP I: The “Ritual Design Toolkit”
 {{< tdclose >}}{{< tdopen >}}
-Commentary paper due (2 pages). Conduct a ritual self-inventory. Spend a day keeping track of the formal and informal rituals you engage in. How do you tell the difference between ritual and everything else, and what difference does it make?
+Commentary paper due (2 pages): Conduct a ritual self-inventory. Spend a day keeping track of the formal and informal rituals you engage in. How do you tell the difference between ritual and everything else, and what difference does it make?
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 16
 {{< tdclose >}}{{< tdopen >}}
-Peabody Museum fieldtrip
+[Peabody Museum of Archaeology & Ethnology](https://peabody.harvard.edu/home) fieldtrip
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -136,7 +136,7 @@ Peabody Museum fieldtrip
 {{< tdclose >}}{{< tdopen >}}
 Representing and displaying culture
 {{< tdclose >}}{{< tdopen >}}
- 
+Commentary paper due (2 pages): What kinds of theories of culture can you find on display at the Peabody museum? Do you notice any tensions between competing theories?
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 18
 {{< tdclose >}}{{< tdopen >}}
@@ -154,7 +154,8 @@ Representing and displaying culture
 {{< tdclose >}}{{< tdopen >}}
 RITUAL WORKSHOP II
 {{< tdclose >}}{{< tdopen >}}
- 
+Commentary paper due(2 pages): Recall Graeber and Wengrow’s  
+discussion (pp. 116–17) of two aspects of ritual: subverting established order and asserting established order. With reference to one or both of this week’s readings, describe how expressive practices (ritual, art, and performance) can function as a mode of resistance. How is that different from political protest?
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 20
 {{< tdclose >}}{{< tdopen >}}
