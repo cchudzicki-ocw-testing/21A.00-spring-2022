@@ -110,7 +110,7 @@ RITUAL WORKSHOP I: The “Ritual Design Toolkit”
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 16
 {{< tdclose >}}{{< tdopen >}}
-Peabody fieldtrip
+Peabody Museum fieldtrip
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -155,7 +155,7 @@ City as Theater
 
 “Nomadland”
 
-Screening:
+*Screening:*
 
 [*Nomadland*](https://www.imdb.com/title/tt9770150/?ref_=fn_al_tt_1). Directed by Chloé Zhao. Color, 107 min. 2020.
 
