@@ -40,12 +40,7 @@ The problem of “human nature” (plus introductions)
 {{< tdclose >}}{{< tdopen >}}
 Cross-cultural contact
 {{< tdclose >}}{{< tdopen >}}
-
-Commentary paper due
-
-*Compare the experiences of cultural contact described in* The Dawn of Everything *with the “First Contact.” With allowances made for different historical circumstances, what similarities do you notice? Is*   
-*there evidence of an indigenous critique?*
-
+Commentary paper due (2 pages): *Compare the experiences of cultural contact described in* The Dawn of Everything *with the “First Contact.” With allowances made for different historical circumstances, what similarities do you notice? Is* *there evidence of an indigenous critique?*
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 5
 {{< tdclose >}}{{< tdopen >}}
@@ -63,21 +58,23 @@ Commentary paper due
 {{< tdclose >}}{{< tdopen >}}
 Human origins and social evolution
 {{< tdclose >}}{{< tdopen >}}
-
-Commentary paper due
-
-*How does the discussion of “political self-consciousness” in* The Dawn of Everything *apply to the events in “Joe Leahy’s Neighbours”? What different models of politics and personhood do various parties in the film embrace?*
-
+Commentary paper due (2 pages): *How does the discussion of “political self-consciousness” in* The Dawn of Everything *apply to the events in “Joe Leahy’s Neighbours”? What different models of politics and personhood do various parties in the film embrace?*
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 7
 {{< tdclose >}}{{< tdopen >}}
-Ethnographic Methods and participant observation
+Ethnographic methods and participant observation
 {{< tdclose >}}{{< tdopen >}}
- 
+Commentary paper due (2 pages): *How do the anthropological research methods in described in today’s readings compare to research methods you’ve encountered in other disciplines? What are the distinctive empirical advantages and challenges of these methods?*
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 8
 {{< tdclose >}}{{< tdopen >}}
+
 *Highlands Trilogy*, part 3
+
+*Screening:*
+
+[*Black Harvest*](https://www.imdb.com/title/tt0103817/?ref_=fn_al_tt_1). Directed by Robin Anderson and Bob Connolly. Color, 90 min. 1992.
+
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -85,7 +82,7 @@ Ethnographic Methods and participant observation
 {{< tdclose >}}{{< tdopen >}}
 Politics and ritual
 {{< tdclose >}}{{< tdopen >}}
- 
+Commentary paper due (2 pages): *How do Graeber and Wengrow’s analyses of egalitarianism, autonomy, and private property connect to the events depicted in “Black Harvest”?*
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 10
 {{< tdclose >}}{{< tdopen >}}
