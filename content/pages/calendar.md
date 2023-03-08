@@ -122,7 +122,7 @@ Can rituals be designed?
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 15
 {{< tdclose >}}{{< tdopen >}}
-RITUAL WORKSHOP I: The “Ritual Design Toolkit”
+Ritual Workshop I: The “Ritual Design Toolkit”
 {{< tdclose >}}{{< tdopen >}}
 Commentary paper due (2 pages): Conduct a ritual self-inventory. Spend a day keeping track of the formal and informal rituals you engage in. How do you tell the difference between ritual and everything else, and what difference does it make?
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -152,9 +152,9 @@ Commentary paper due (2 pages): What kinds of theories of culture can you find o
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 19
 {{< tdclose >}}{{< tdopen >}}
-RITUAL WORKSHOP II
+Ritual Workshop II
 {{< tdclose >}}{{< tdopen >}}
-Commentary paper due(2 pages): Recall Graeber and Wengrow’s  
+Commentary paper due(2 pages): Recall Graeber and Wengrow’s   
 discussion (pp. 116–17) of two aspects of ritual: subverting established order and asserting established order. With reference to one or both of this week’s readings, describe how expressive practices (ritual, art, and performance) can function as a mode of resistance. How is that different from political protest?
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 20
@@ -167,7 +167,7 @@ Guest: James Shen, Principal, [People’s Architecture](http://peoples-architect
 {{< tdclose >}}{{< tdopen >}}
 City as Theater
 {{< tdclose >}}{{< tdopen >}}
- 
+Commentary paper due (2 pages): Reflecting on this week’s readings and our conversation with James Shen, discuss why the city is so important for understanding humanity’s past, present and future.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 22
 {{< tdclose >}}{{< tdopen >}}
@@ -185,11 +185,11 @@ Screening:
 {{< tdclose >}}{{< tdopen >}}
 Uncertainty, precarity, futurity
 {{< tdclose >}}{{< tdopen >}}
- 
+Commentary paper due (2 pages): *The* *Dawn of Everything* ends on a note of optimism about humanity’s prospects for “getting unstuck” from restrictive/repressive social formations. Does “Nomadland” reflect that optimism, or does it suggest a bleaker vision?
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 24
 {{< tdclose >}}{{< tdopen >}}
-RITUAL WORKSHOP III: Final plans and prototypes
+Ritual Workshop III: Final plans and prototypes
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -203,5 +203,5 @@ Ritual performance
 {{< tdclose >}}{{< tdopen >}}
 Reflecting back, looking forward
 {{< tdclose >}}{{< tdopen >}}
- 
+Ritual portfolio due (4 pages)
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
