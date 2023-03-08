@@ -29,29 +29,33 @@ The problem of “human nature” (plus introductions)
 
 *Highlands Trilogy*, part 1
 
-Screening:
+*Screening:*
 
 [*First Contact*](https://www.imdb.com/title/tt0085544/?ref_=nv_sr_srsg_4). Directed by Robin Anderson and Bob Connolly. Color, 58 min. 1982.
 
 {{< tdclose >}}{{< tdopen >}}
-
-Commentary paper due.
-
-*Compare the experiences of cultural contact described in The Dawn of Everything with the “First Contact.” With allowances made for different historical circumstances, what similarities do you notice? Is*  
-*there evidence of an indigenous critique?* 
-
  
-
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 4
 {{< tdclose >}}{{< tdopen >}}
 Cross-cultural contact
 {{< tdclose >}}{{< tdopen >}}
- 
+
+Commentary paper due
+
+*Compare the experiences of cultural contact described in* The Dawn of Everything *with the “First Contact.” With allowances made for different historical circumstances, what similarities do you notice? Is*   
+*there evidence of an indigenous critique?*
+
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 5
 {{< tdclose >}}{{< tdopen >}}
+
 *Highlands Trilogy*, part 2
+
+*Screening:*
+
+[*Joe Leahy’s Neighbours*](https://www.imdb.com/title/tt0460476/?ref_=nv_sr_srsg_0)*.* Directed by Robin Anderson and Bob Connolly. Color, 90 min. 1989.
+
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -59,7 +63,11 @@ Cross-cultural contact
 {{< tdclose >}}{{< tdopen >}}
 Human origins and social evolution
 {{< tdclose >}}{{< tdopen >}}
- 
+
+Commentary paper due
+
+*How does the discussion of “political self-consciousness” in* The Dawn of Everything *apply to the events in “Joe Leahy’s Neighbours”? What different models of politics and personhood do various parties in the film embrace?*
+
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 7
 {{< tdclose >}}{{< tdopen >}}
