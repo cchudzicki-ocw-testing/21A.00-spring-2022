@@ -110,7 +110,7 @@ RITUAL WORKSHOP I: The “Ritual Design Toolkit”
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 16
 {{< tdclose >}}{{< tdopen >}}
-Peabody Museum fieldtrip
+[Peabody Museum of Archaeology & Ethnology](https://peabody.harvard.edu/home) fieldtrip
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
