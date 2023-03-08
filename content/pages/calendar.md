@@ -26,9 +26,22 @@ The problem of “human nature” (plus introductions)
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 3
 {{< tdclose >}}{{< tdopen >}}
+
 *Highlands Trilogy*, part 1
+
+Screening:
+
+[*First Contact*](https://www.imdb.com/title/tt0085544/?ref_=nv_sr_srsg_4). Directed by Robin Anderson and Bob Connolly. Color, 58 min. 1982.
+
 {{< tdclose >}}{{< tdopen >}}
+
+Commentary paper due.
+
+*Compare the experiences of cultural contact described in The Dawn of Everything with the “First Contact.” With allowances made for different historical circumstances, what similarities do you notice? Is*  
+*there evidence of an indigenous critique?* 
+
  
+
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 4
 {{< tdclose >}}{{< tdopen >}}
