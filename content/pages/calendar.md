@@ -40,7 +40,7 @@ The problem of “human nature” (plus introductions)
 {{< tdclose >}}{{< tdopen >}}
 Cross-cultural contact
 {{< tdclose >}}{{< tdopen >}}
-Commentary paper due (2 pages): *Compare the experiences of cultural contact described in* The Dawn of Everything *with the “First Contact.” With allowances made for different historical circumstances, what similarities do you notice? Is* *there evidence of an indigenous critique?*
+Commentary paper due (2 pages): Compare the experiences of cultural contact described in *The Dawn of Everything* with the “First Contact.” With allowances made for different historical circumstances, what similarities do you notice? Is there evidence of an indigenous critique?
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 5
 {{< tdclose >}}{{< tdopen >}}
@@ -58,13 +58,13 @@ Commentary paper due (2 pages): *Compare the experiences of cultural contact des
 {{< tdclose >}}{{< tdopen >}}
 Human origins and social evolution
 {{< tdclose >}}{{< tdopen >}}
-Commentary paper due (2 pages): *How does the discussion of “political self-consciousness” in* The Dawn of Everything *apply to the events in “Joe Leahy’s Neighbours”? What different models of politics and personhood do various parties in the film embrace?*
+Commentary paper due (2 pages): How does the discussion of “political self-consciousness” in *The Dawn of Everything* apply to the events in “Joe Leahy’s Neighbours”? What different models of politics and personhood do various parties in the film embrace?
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 7
 {{< tdclose >}}{{< tdopen >}}
 Ethnographic methods and participant observation
 {{< tdclose >}}{{< tdopen >}}
-Commentary paper due (2 pages): *How do the anthropological research methods in described in today’s readings compare to research methods you’ve encountered in other disciplines? What are the distinctive empirical advantages and challenges of these methods?*
+Commentary paper due (2 pages): How do the anthropological research methods in described in today’s readings compare to research methods you’ve encountered in other disciplines? What are the distinctive empirical advantages and challenges of these methods?
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 8
 {{< tdclose >}}{{< tdopen >}}
@@ -82,7 +82,7 @@ Commentary paper due (2 pages): *How do the anthropological research methods in 
 {{< tdclose >}}{{< tdopen >}}
 Politics and ritual
 {{< tdclose >}}{{< tdopen >}}
-Commentary paper due (2 pages): *How do Graeber and Wengrow’s analyses of egalitarianism, autonomy, and private property connect to the events depicted in “Black Harvest”?*
+Commentary paper due (2 pages): How do Graeber and Wengrow’s analyses of egalitarianism, autonomy, and private property connect to the events depicted in “Black Harvest”?
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 10
 {{< tdclose >}}{{< tdopen >}}
@@ -100,7 +100,7 @@ Commentary paper due (2 pages): *How do Graeber and Wengrow’s analyses of egal
 {{< tdclose >}}{{< tdopen >}}
 Ritual and expressive culture
 {{< tdclose >}}{{< tdopen >}}
- 
+Commentary paper due (2 pages): Use one or more concepts from Durkheim to explain how internet memes work, as seen in the case of Baby Forklift and/or Pepe the Frog.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 12
 {{< tdclose >}}{{< tdopen >}}
@@ -112,7 +112,7 @@ Presentations (1)
 {{< tdclose >}}{{< tdopen >}}
 Presentations (2)
 {{< tdclose >}}{{< tdopen >}}
- 
+Research paper 1 due: Ritual Ethnography (4 pages)
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 14
 {{< tdclose >}}{{< tdopen >}}
@@ -124,11 +124,11 @@ Can rituals be designed?
 {{< tdclose >}}{{< tdopen >}}
 RITUAL WORKSHOP I: The “Ritual Design Toolkit”
 {{< tdclose >}}{{< tdopen >}}
- 
+Commentary paper due (2 pages). Conduct a ritual self-inventory. Spend a day keeping track of the formal and informal rituals you engage in. How do you tell the difference between ritual and everything else, and what difference does it make?
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 16
 {{< tdclose >}}{{< tdopen >}}
-Peabody fieldtrip
+Peabody Museum fieldtrip
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
