@@ -20,7 +20,7 @@ READINGS
 {{< tdclose >}}{{< tdopen >}}
 Overview of class
 {{< tdclose >}}{{< tdopen >}}
-No readings assigned
+No readings assigned.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 2
 {{< tdclose >}}{{< tdopen >}}
@@ -34,13 +34,13 @@ The problem of “human nature” (plus introductions)
 {{< tdclose >}}{{< tdopen >}}
 *Highlands Trilogy*, part 1
 {{< tdclose >}}{{< tdopen >}}
- 
+\[G\] Chapter 2: Wicked Liberty. \[Preview with [Google Books](https://www.google.com/books/edition/The_Dawn_of_Everything/9xkQEAAAQBAJ?hl=en&gbpv=1)\]
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 4
 {{< tdclose >}}{{< tdopen >}}
 Cross-cultural contact
 {{< tdclose >}}{{< tdopen >}}
- 
+No readings assigned.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 *Week 3 (41 pages)*
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
