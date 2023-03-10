@@ -20,13 +20,13 @@ READINGS
 {{< tdclose >}}{{< tdopen >}}
 Overview of class
 {{< tdclose >}}{{< tdopen >}}
- 
+No readings assigned
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 2
 {{< tdclose >}}{{< tdopen >}}
 The problem of “human nature” (plus introductions)
 {{< tdclose >}}{{< tdopen >}}
- 
+\[G\] Chapter 1: Farewell to Humanity's Childhood. \[Preview with [Google Books](https://www.google.com/books/edition/The_Dawn_of_Everything/9xkQEAAAQBAJ?hl=en&gbpv=1)\]
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 *Week 2 (51 pages)*
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
