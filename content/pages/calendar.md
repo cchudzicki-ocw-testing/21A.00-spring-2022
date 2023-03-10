@@ -154,7 +154,7 @@ Commentary paper due (2 pages): What kinds of theories of culture can you find o
 {{< tdclose >}}{{< tdopen >}}
 Ritual Workshop II
 {{< tdclose >}}{{< tdopen >}}
-Commentary paper due(2 pages): Recall Graeber and Wengrow’s   
+Commentary paper due (2 pages): Recall Graeber and Wengrow’s    
 discussion (pp. 116–17) of two aspects of ritual: subverting established order and asserting established order. With reference to one or both of this week’s readings, describe how expressive practices (ritual, art, and performance) can function as a mode of resistance. How is that different from political protest?
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 20
