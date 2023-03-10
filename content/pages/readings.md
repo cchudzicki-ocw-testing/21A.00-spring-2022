@@ -5,13 +5,17 @@ draft: false
 title: Readings
 uid: 48098d0a-e0a4-4c11-bfe0-31b7aff16672
 ---
+\[G\] = Graeber, David, and David Wengrow. *The Dawn of Everything: A New History of Humanity*. Farrar, Straus and Giroux, 2021. ISBN: ‎9780374157357. \[Preview with [Google Books](https://www.google.com/books/edition/The_Dawn_of_Everything/9xkQEAAAQBAJ?hl=en&gbpv=1)\]
+
 {{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
 SESS #
 {{< thclose >}}{{< thopen >}}
 TOPICS 
 {{< thclose >}}{{< thopen >}}
 READINGS
-{{< thclose >}}{{< trclose >}}{{< theadclose >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
+{{< thclose >}}{{< trclose >}}{{< theadclose >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen colspan="3" >}}
+*Week 1 (26 pages to read)*
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 1
 {{< tdclose >}}{{< tdopen >}}
 Overview of class
@@ -23,6 +27,8 @@ Overview of class
 The problem of “human nature” (plus introductions)
 {{< tdclose >}}{{< tdopen >}}
  
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
+*Week 2 (51 pages)*
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 3
 {{< tdclose >}}{{< tdopen >}}
@@ -35,6 +41,8 @@ The problem of “human nature” (plus introductions)
 Cross-cultural contact
 {{< tdclose >}}{{< tdopen >}}
  
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
+*Week 3 (41 pages)*
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 5
 {{< tdclose >}}{{< tdopen >}}
@@ -47,12 +55,16 @@ Cross-cultural contact
 Human origins and social evolution
 {{< tdclose >}}{{< tdopen >}}
  
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
+*Week 4 (32 pages)*
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 7
 {{< tdclose >}}{{< tdopen >}}
 Ethnographic Methods and participant observation
 {{< tdclose >}}{{< tdopen >}}
  
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
+*Week 5 (44 pages)*
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 8
 {{< tdclose >}}{{< tdopen >}}
@@ -65,6 +77,8 @@ Ethnographic Methods and participant observation
 Politics and ritual
 {{< tdclose >}}{{< tdopen >}}
  
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
+*Week 6 (52 pages)*
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 10
 {{< tdclose >}}{{< tdopen >}}
@@ -83,6 +97,8 @@ Politics and ritual
 Ritual and expressive culture
 {{< tdclose >}}{{< tdopen >}}
  
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
+*Week 7 (0 pages)*
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 12
 {{< tdclose >}}{{< tdopen >}}
@@ -95,6 +111,8 @@ Presentations (1)
 Presentations (2)
 {{< tdclose >}}{{< tdopen >}}
  
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
+*Week 8 (30 pages)*
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 14
 {{< tdclose >}}{{< tdopen >}}
@@ -107,6 +125,8 @@ Can rituals be designed?
 RITUAL WORKSHOP I: The “Ritual Design Toolkit”
 {{< tdclose >}}{{< tdopen >}}
  
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
+*Week 9 (46 pages)*
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 16
 {{< tdclose >}}{{< tdopen >}}
@@ -119,6 +139,8 @@ RITUAL WORKSHOP I: The “Ritual Design Toolkit”
 Representing and displaying culture
 {{< tdclose >}}{{< tdopen >}}
  
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
+*Week 10 (44 pages)*
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 18
 {{< tdclose >}}{{< tdopen >}}
@@ -137,6 +159,8 @@ Representing and displaying culture
 RITUAL WORKSHOP II
 {{< tdclose >}}{{< tdopen >}}
  
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
+*Week 11 (54 pages)*
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 20
 {{< tdclose >}}{{< tdopen >}}
@@ -149,6 +173,8 @@ Guest: James Shen, Principal, [People’s Architecture](http://peoples-architect
 City as Theater
 {{< tdclose >}}{{< tdopen >}}
  
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
+*Week 12 (34 pages)*
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 22
 {{< tdclose >}}{{< tdopen >}}
@@ -167,6 +193,8 @@ City as Theater
 Uncertainty, precarity, futurity
 {{< tdclose >}}{{< tdopen >}}
  
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
+*Week 13 (0 pages)*
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 24
 {{< tdclose >}}{{< tdopen >}}
@@ -179,6 +207,8 @@ RITUAL WORKSHOP III: Final plans and prototypes
 Ritual performance
 {{< tdclose >}}{{< tdopen >}}
  
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
+*Week 14 (0 pages)*
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 26
 {{< tdclose >}}{{< tdopen >}}
