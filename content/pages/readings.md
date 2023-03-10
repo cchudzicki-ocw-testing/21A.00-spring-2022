@@ -48,13 +48,13 @@ No readings assigned.
 {{< tdclose >}}{{< tdopen >}}
 *Highlands Trilogy*, part 2
 {{< tdclose >}}{{< tdopen >}}
- 
+\[G\] Chapter 3: Unfreezing the Ice Age In and Out of Chains: The Protean Possibilities of Human Politics.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 6
 {{< tdclose >}}{{< tdopen >}}
 Human origins and social evolution
 {{< tdclose >}}{{< tdopen >}}
- 
+No readings assigned.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 *Week 4 (32 pages)*
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -62,7 +62,7 @@ Human origins and social evolution
 {{< tdclose >}}{{< tdopen >}}
 Ethnographic Methods and participant observation
 {{< tdclose >}}{{< tdopen >}}
- 
+Abidin, Crystal. “[Somewhere between Here and There: Negotiating Researcher Visibility in a Digital Ethnography of the Influencer Industry](https://jdsr.se/ojs/index.php/jdsr/article/view/20/15).” *Journal of Digital Social Research* 2, no. 1 (2020): 56–76.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 *Week 5 (44 pages)*
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
