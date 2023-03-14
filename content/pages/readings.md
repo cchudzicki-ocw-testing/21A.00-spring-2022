@@ -65,7 +65,7 @@ Ethnographic Methods and participant observation
 
 Abidin, Crystal. “[Somewhere between Here and There: Negotiating Researcher Visibility in a Digital Ethnography of the Influencer Industry](https://jdsr.se/ojs/index.php/jdsr/article/view/20/15).” *Journal of Digital Social Research* 2, no. 1 (2020): 56–76.
 
-Johnson, Norris Brock. “[Sex, Color, and Rites of Passage in](https://www.jstor.org/stable/44125835?searchText=au%3A%22NORRIS+BROCK+JOHNSON%22&searchUri=%2Faction%2FdoBasicSearch%3FQuery%3Dau%253A%2522NORRIS%2520BROCK%2520JOHNSON%2522&ab_segments=0%2Fbasic_phrase_search%2Fcontrol&refreqid=fastly-default%3Ab096b0510d1fa6b9ae5e5e7d675c6758)        
+Johnson, Norris Brock. “[Sex, Color, and Rites of Passage in](https://www.jstor.org/stable/44125835?searchText=au%3A%22NORRIS+BROCK+JOHNSON%22&searchUri=%2Faction%2FdoBasicSearch%3FQuery%3Dau%253A%2522NORRIS%2520BROCK%2520JOHNSON%2522&ab_segments=0%2Fbasic_phrase_search%2Fcontrol&refreqid=fastly-default%3Ab096b0510d1fa6b9ae5e5e7d675c6758)         
 [Ethnographic Research](https://www.jstor.org/stable/44125835?searchText=au%3A%22NORRIS+BROCK+JOHNSON%22&searchUri=%2Faction%2FdoBasicSearch%3FQuery%3Dau%253A%2522NORRIS%2520BROCK%2520JOHNSON%2522&ab_segments=0%2Fbasic_phrase_search%2Fcontrol&refreqid=fastly-default%3Ab096b0510d1fa6b9ae5e5e7d675c6758).” *Human Organization* 43, no. 2(1984): 108–20.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
@@ -122,7 +122,7 @@ No readings assigned.
 Can rituals be designed?
 {{< tdclose >}}{{< tdopen >}}
 
-Gordon-Lennox, Jeltje. “The Rhyme and Reason of Ritualmaking.”    Chapter 4 in *Emerging Ritual in Secular Societies: A Transdisciplinary Conversation*. Edited by Jeltje Gordon-Lennox. Jessica Kingsley Publishers, 2017. ISBN: ‎9781785920837. \[Preview with [Google Books](https://www.google.com/books/edition/Emerging_Ritual_in_Secular_Societies/NBqZDQAAQBAJ?hl=en&gbpv=1)\]
+Gordon-Lennox, Jeltje. “The Rhyme and Reason of Ritualmaking.” Chapter 4 in *Emerging Ritual in Secular Societies: A Transdisciplinary Conversation*. Edited by Jeltje Gordon-Lennox. Jessica Kingsley Publishers, 2017. ISBN: ‎9781785920837. \[Preview with [Google Books](https://www.google.com/books/edition/Emerging_Ritual_in_Secular_Societies/NBqZDQAAQBAJ?hl=en&gbpv=1)\]
 
 Lévy, Pierre. “[Exploring the Challenge of Designing Rituals](https://www.researchgate.net/publication/295400029_Exploring_the_challenge_of_designing_rituals).” Paper presented at the 6th International Congress of International Association of Societies of Design Research, Brisbane, Australia, November 2015.
 
@@ -153,7 +153,11 @@ No readings assigned.
 {{< tdclose >}}{{< tdopen >}}
 “Bored in Heaven”
 {{< tdclose >}}{{< tdopen >}}
-Jiménez,  Alberto Corsín, and Adolfo Estalella. “[Ethnography: A Prototype](https://www.tandfonline.com/doi/abs/10.1080/00141844.2015.1133688?journalCode=retn20).” *Ethnos* 82, no. 5 (2017.): 846–66.
+
+Jiménez,  Alberto Corsín, and Adolfo Estalella. “[Ethnography: A Prototype](https://www.tandfonline.com/doi/abs/10.1080/00141844.2015.1133688?journalCode=retn20).” *Ethnos* 82, no. 5 (2017): 846–66.
+
+Farquahar, Judith, and Qicheng Zhang.  “[Biopolitical Beijing: Pleasure, Sovereignty, and Self-Cultivation in China’s Capital](https://anthrosource.onlinelibrary.wiley.com/doi/abs/10.1525/can.2005.20.3.303).” *Cultural Anthropology* 20, no. 3 (2005): 303–27.
+
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 19
 {{< tdclose >}}{{< tdopen >}}
