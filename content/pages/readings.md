@@ -65,7 +65,7 @@ Ethnographic Methods and participant observation
 
 Abidin, Crystal. “[Somewhere between Here and There: Negotiating Researcher Visibility in a Digital Ethnography of the Influencer Industry](https://jdsr.se/ojs/index.php/jdsr/article/view/20/15).” *Journal of Digital Social Research* 2, no. 1 (2020): 56–76.
 
-Johnson, Norris Brock. “[Sex, Color, and Rites of Passage in](https://www.jstor.org/stable/44125835?searchText=au%3A%22NORRIS+BROCK+JOHNSON%22&searchUri=%2Faction%2FdoBasicSearch%3FQuery%3Dau%253A%2522NORRIS%2520BROCK%2520JOHNSON%2522&ab_segments=0%2Fbasic_phrase_search%2Fcontrol&refreqid=fastly-default%3Ab096b0510d1fa6b9ae5e5e7d675c6758)   
+Johnson, Norris Brock. “[Sex, Color, and Rites of Passage in](https://www.jstor.org/stable/44125835?searchText=au%3A%22NORRIS+BROCK+JOHNSON%22&searchUri=%2Faction%2FdoBasicSearch%3FQuery%3Dau%253A%2522NORRIS%2520BROCK%2520JOHNSON%2522&ab_segments=0%2Fbasic_phrase_search%2Fcontrol&refreqid=fastly-default%3Ab096b0510d1fa6b9ae5e5e7d675c6758)    
 [Ethnographic Research](https://www.jstor.org/stable/44125835?searchText=au%3A%22NORRIS+BROCK+JOHNSON%22&searchUri=%2Faction%2FdoBasicSearch%3FQuery%3Dau%253A%2522NORRIS%2520BROCK%2520JOHNSON%2522&ab_segments=0%2Fbasic_phrase_search%2Fcontrol&refreqid=fastly-default%3Ab096b0510d1fa6b9ae5e5e7d675c6758).” *Human Organization* 43, no. 2(1984): 108–20.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
@@ -99,7 +99,7 @@ Wong, Jamie, Crystal Lee, et al. “[‘Let’s Go, Baby Forklift!’: Fandom Go
 {{< tdclose >}}{{< tdopen >}}
 Ritual and expressive culture
 {{< tdclose >}}{{< tdopen >}}
- 
+No readings assigned.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 *Week 7 (0 pages)*
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -107,13 +107,13 @@ Ritual and expressive culture
 {{< tdclose >}}{{< tdopen >}}
 Presentations (1)
 {{< tdclose >}}{{< tdopen >}}
- 
+No readings assigned.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 13
 {{< tdclose >}}{{< tdopen >}}
 Presentations (2)
 {{< tdclose >}}{{< tdopen >}}
- 
+No readings assigned.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 *Week 8 (30 pages)*
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -121,7 +121,8 @@ Presentations (2)
 {{< tdclose >}}{{< tdopen >}}
 Can rituals be designed?
 {{< tdclose >}}{{< tdopen >}}
- 
+Gordon-Lennox, Jeltje. “The Rhyme and Reason of Ritualmaking.”  
+Chapter 4 in *Emerging Ritual in Secular Societies: A Transdisciplinary Conversation*. Edited by Jeltje Gordon-Lennox. Jessica Kingsley Publishers, 2017. ISBN: ‎9781785920837. \[Preview with [Google Books](https://www.google.com/books/edition/Emerging_Ritual_in_Secular_Societies/NBqZDQAAQBAJ?hl=en&gbpv=1)\]
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 15
 {{< tdclose >}}{{< tdopen >}}
