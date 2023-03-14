@@ -65,7 +65,7 @@ Ethnographic Methods and participant observation
 
 Abidin, Crystal. “[Somewhere between Here and There: Negotiating Researcher Visibility in a Digital Ethnography of the Influencer Industry](https://jdsr.se/ojs/index.php/jdsr/article/view/20/15).” *Journal of Digital Social Research* 2, no. 1 (2020): 56–76.
 
-Johnson, Norris Brock. “[Sex, Color, and Rites of Passage in](https://www.jstor.org/stable/44125835?searchText=au%3A%22NORRIS+BROCK+JOHNSON%22&searchUri=%2Faction%2FdoBasicSearch%3FQuery%3Dau%253A%2522NORRIS%2520BROCK%2520JOHNSON%2522&ab_segments=0%2Fbasic_phrase_search%2Fcontrol&refreqid=fastly-default%3Ab096b0510d1fa6b9ae5e5e7d675c6758)     
+Johnson, Norris Brock. “[Sex, Color, and Rites of Passage in](https://www.jstor.org/stable/44125835?searchText=au%3A%22NORRIS+BROCK+JOHNSON%22&searchUri=%2Faction%2FdoBasicSearch%3FQuery%3Dau%253A%2522NORRIS%2520BROCK%2520JOHNSON%2522&ab_segments=0%2Fbasic_phrase_search%2Fcontrol&refreqid=fastly-default%3Ab096b0510d1fa6b9ae5e5e7d675c6758)      
 [Ethnographic Research](https://www.jstor.org/stable/44125835?searchText=au%3A%22NORRIS+BROCK+JOHNSON%22&searchUri=%2Faction%2FdoBasicSearch%3FQuery%3Dau%253A%2522NORRIS%2520BROCK%2520JOHNSON%2522&ab_segments=0%2Fbasic_phrase_search%2Fcontrol&refreqid=fastly-default%3Ab096b0510d1fa6b9ae5e5e7d675c6758).” *Human Organization* 43, no. 2(1984): 108–20.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
@@ -122,19 +122,17 @@ No readings assigned.
 Can rituals be designed?
 {{< tdclose >}}{{< tdopen >}}
 
-Gordon-Lennox, Jeltje. “The Rhyme and Reason of Ritualmaking.”   
+Gordon-Lennox, Jeltje. “The Rhyme and Reason of Ritualmaking.”    
 Chapter 4 in *Emerging Ritual in Secular Societies: A Transdisciplinary Conversation*. Edited by Jeltje Gordon-Lennox. Jessica Kingsley Publishers, 2017. ISBN: ‎9781785920837. \[Preview with [Google Books](https://www.google.com/books/edition/Emerging_Ritual_in_Secular_Societies/NBqZDQAAQBAJ?hl=en&gbpv=1)\]
 
-Levy, Pierre. “[Exploring the Challenge of Designing Rituals](https://www.researchgate.net/publication/295400029_Exploring_the_challenge_of_designing_rituals).” Paper  
-presented at 2015 IASDR International Design Research  
-Conference, Brisbane, Australia.
+Lévy, Pierre. “[Exploring the Challenge of Designing Rituals](https://www.researchgate.net/publication/295400029_Exploring_the_challenge_of_designing_rituals).” Paper presented at the 6th International Congress of International Association of Societies of Design Research, Brisbane, Australia, November 2015.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 15
 {{< tdclose >}}{{< tdopen >}}
 RITUAL WORKSHOP I: The “Ritual Design Toolkit”
 {{< tdclose >}}{{< tdopen >}}
- 
+Baxter, W., S. Roots, et al. “[Ritual Design Toolkit](https://spiral.imperial.ac.uk/handle/10044/1/83960).” Interaction Foundry, 2020.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 *Week 9 (46 pages)*
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
