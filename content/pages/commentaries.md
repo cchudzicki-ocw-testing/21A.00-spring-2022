@@ -33,7 +33,7 @@ Conduct a ritual self-inventory. Spend a day keeping track of the formal and inf
 
 *Session 17 Commentary paper:* 
 
-What kinds of theories of culture can you find on display at the Peabody museum? Do you notice any tensions between competing theories?
+What kinds of theories of culture can you find on display at the [Peabody Museum of Archaeology & Ethnology](https://peabody.harvard.edu/home)? Do you notice any tensions between competing theories?
 
 *Session 19 Commentary paper:* 
 
