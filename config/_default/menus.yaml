@@ -20,3 +20,8 @@ leftnav:
   parent: cdc992c6-0573-497d-8ab0-f07da01975f1
   url: /pages/commentaries
   weight: 10
+- identifier: 01e89a74-af4a-45f6-905b-a718804e7079
+  name: Research Paper 1
+  parent: cdc992c6-0573-497d-8ab0-f07da01975f1
+  url: /pages/research-paper-1
+  weight: 20
