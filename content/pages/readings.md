@@ -65,7 +65,7 @@ Ethnographic Methods and participant observation
 
 Abidin, Crystal. “[Somewhere between Here and There: Negotiating Researcher Visibility in a Digital Ethnography of the Influencer Industry](https://jdsr.se/ojs/index.php/jdsr/article/view/20/15).” *Journal of Digital Social Research* 2, no. 1 (2020): 56–76.
 
-Johnson, Norris Brock. “[Sex, Color, and Rites of Passage in](https://www.jstor.org/stable/44125835?searchText=au%3A%22NORRIS+BROCK+JOHNSON%22&searchUri=%2Faction%2FdoBasicSearch%3FQuery%3Dau%253A%2522NORRIS%2520BROCK%2520JOHNSON%2522&ab_segments=0%2Fbasic_phrase_search%2Fcontrol&refreqid=fastly-default%3Ab096b0510d1fa6b9ae5e5e7d675c6758)          
+Johnson, Norris Brock. “[Sex, Color, and Rites of Passage in](https://www.jstor.org/stable/44125835?searchText=au%3A%22NORRIS+BROCK+JOHNSON%22&searchUri=%2Faction%2FdoBasicSearch%3FQuery%3Dau%253A%2522NORRIS%2520BROCK%2520JOHNSON%2522&ab_segments=0%2Fbasic_phrase_search%2Fcontrol&refreqid=fastly-default%3Ab096b0510d1fa6b9ae5e5e7d675c6758)           
 [Ethnographic Research](https://www.jstor.org/stable/44125835?searchText=au%3A%22NORRIS+BROCK+JOHNSON%22&searchUri=%2Faction%2FdoBasicSearch%3FQuery%3Dau%253A%2522NORRIS%2520BROCK%2520JOHNSON%2522&ab_segments=0%2Fbasic_phrase_search%2Fcontrol&refreqid=fastly-default%3Ab096b0510d1fa6b9ae5e5e7d675c6758).” *Human Organization* 43, no. 2(1984): 108–20.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
@@ -163,7 +163,7 @@ Farquhar, Judith, and Qicheng Zhang.  “[Biopolitical Beijing: Pleasure, Sover
 {{< tdclose >}}{{< tdopen >}}
 Ritual Workshop II
 {{< tdclose >}}{{< tdopen >}}
- 
+No readings assigned.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 *Week 11 (54 pages)*
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -171,33 +171,27 @@ Ritual Workshop II
 {{< tdclose >}}{{< tdopen >}}
 Guest: James Shen, Principal, [People’s Architecture](http://peoples-architecture.com/pao/en)
 {{< tdclose >}}{{< tdopen >}}
- 
+\[G\] Chapter 8: Imaginary Cities.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 21
 {{< tdclose >}}{{< tdopen >}}
 City as Theater
 {{< tdclose >}}{{< tdopen >}}
- 
+No readings assigned.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 *Week 12 (34 pages)*
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 22
 {{< tdclose >}}{{< tdopen >}}
-
 “Nomadland”
-
-*Screening:*
-
-[*Nomadland*](https://www.imdb.com/title/tt9770150/?ref_=fn_al_tt_1). Directed by Chloé Zhao. Color, 107 min. 2020.
-
 {{< tdclose >}}{{< tdopen >}}
- 
+No readings assigned.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 23
 {{< tdclose >}}{{< tdopen >}}
 Uncertainty, precarity, futurity
 {{< tdclose >}}{{< tdopen >}}
- 
+No readings assigned.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 *Week 13 (0 pages)*
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -205,13 +199,13 @@ Uncertainty, precarity, futurity
 {{< tdclose >}}{{< tdopen >}}
 Ritual Workshop III: Final plans and prototypes
 {{< tdclose >}}{{< tdopen >}}
- 
+No readings assigned.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 25
 {{< tdclose >}}{{< tdopen >}}
 Ritual performance
 {{< tdclose >}}{{< tdopen >}}
- 
+No readings assigned.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 *Week 14 (0 pages)*
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -219,5 +213,5 @@ Ritual performance
 {{< tdclose >}}{{< tdopen >}}
 Reflecting back, looking forward
 {{< tdclose >}}{{< tdopen >}}
- 
+No readings assigned.
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
