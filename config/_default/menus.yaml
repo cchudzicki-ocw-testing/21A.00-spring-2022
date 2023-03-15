@@ -26,7 +26,7 @@ leftnav:
   url: /pages/research-paper-1
   weight: 20
 - identifier: 0eae2b99-fa2c-4337-b0ed-ea835cead243
-  name: Research Paper 2
+  name: Research Paper 2 - Ritual Design
   parent: cdc992c6-0573-497d-8ab0-f07da01975f1
   url: /pages/research-paper-2
   weight: 30
