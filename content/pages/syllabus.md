@@ -32,6 +32,18 @@ Graeber, David, and David Wengrow. *The Dawn of Everything: A New History of Hum
 
 Students are expected to read approximately 40-50 pages a week as the basis for class discussion. Length of readings is indicated for each session/week. For more detail, see the {{% resource_link "48098d0a-e0a4-4c11-bfe0-31b7aff16672" "Readings" %}} section.
 
+#### Writing Assignments
+
+Students will complete 4 commentary papers as well as 2 research papers. For more detail, see the {{% resource_link "cdc992c6-0573-497d-8ab0-f07da01975f1" "Assignments" %}} section.
+
+#### Attendance and Participation
+
+Your grade for class participation is not calculated by how much you speak, but rather how you participate in enabling a lively and useful discussion both inside and out of class. At times this means bouncing an idea off the group or bringing up something that’s puzzling you. At other times this involves asking one of your peers to elaborate more fully on a thought that they are sharing. And sometimes this entails sitting quietly and holding onto an idea that can best be entertained at a later point in the discussion.
+
+- Come prepared to discuss and answer questions about all readings. This means you must bring all readings to class.
+- Use of laptops, cell phones or other devices unrelated to the class is strictly forbidden.
+- If you must be absent, alert us in advance. Any unexcused absences will affect your final grade.
+
 #### Grading Policy
 
 {{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
@@ -59,5 +71,3 @@ Research papers (2 x 16% each)
 {{< tdclose >}}{{< tdopen >}}
 32%
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
-
-For detail on the activities above, see the {{% resource_link "cdc992c6-0573-497d-8ab0-f07da01975f1" "Assignments" %}} section.
