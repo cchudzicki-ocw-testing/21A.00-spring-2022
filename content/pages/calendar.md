@@ -40,7 +40,7 @@ The problem of “human nature” (plus introductions)
 {{< tdclose >}}{{< tdopen >}}
 Cross-cultural contact
 {{< tdclose >}}{{< tdopen >}}
-Commentary paper due (2 pages): Compare the experiences of cultural contact described in *The Dawn of Everything* with the “First Contact.” With allowances made for different historical circumstances, what similarities do you notice? Is there evidence of an indigenous critique?
+Commentary paper due
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 5
 {{< tdclose >}}{{< tdopen >}}
@@ -58,13 +58,13 @@ Commentary paper due (2 pages): Compare the experiences of cultural contact desc
 {{< tdclose >}}{{< tdopen >}}
 Human origins and social evolution
 {{< tdclose >}}{{< tdopen >}}
-Commentary paper due (2 pages): How does the discussion of “political self-consciousness” in *The Dawn of Everything* apply to the events in “Joe Leahy’s Neighbours”? What different models of politics and personhood do various parties in the film embrace?
+Commentary paper due
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 7
 {{< tdclose >}}{{< tdopen >}}
 Ethnographic methods and participant observation
 {{< tdclose >}}{{< tdopen >}}
-Commentary paper due (2 pages): How do the anthropological research methods in described in today’s readings compare to research methods you’ve encountered in other disciplines? What are the distinctive empirical advantages and challenges of these methods?
+Commentary paper due
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 8
 {{< tdclose >}}{{< tdopen >}}
@@ -82,7 +82,7 @@ Commentary paper due (2 pages): How do the anthropological research methods in d
 {{< tdclose >}}{{< tdopen >}}
 Politics and ritual
 {{< tdclose >}}{{< tdopen >}}
-Commentary paper due (2 pages): How do Graeber and Wengrow’s analyses of egalitarianism, autonomy, and private property connect to the events depicted in “Black Harvest”?
+Commentary paper due
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 10
 {{< tdclose >}}{{< tdopen >}}
@@ -100,7 +100,7 @@ Commentary paper due (2 pages): How do Graeber and Wengrow’s analyses of egali
 {{< tdclose >}}{{< tdopen >}}
 Ritual and expressive culture
 {{< tdclose >}}{{< tdopen >}}
-Commentary paper due (2 pages): Use one or more concepts from Durkheim to explain how internet memes work, as seen in the case of Baby Forklift and/or Pepe the Frog.
+Commentary paper due 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 12
 {{< tdclose >}}{{< tdopen >}}
@@ -124,7 +124,7 @@ Can rituals be designed?
 {{< tdclose >}}{{< tdopen >}}
 Ritual Workshop I: The “Ritual Design Toolkit”
 {{< tdclose >}}{{< tdopen >}}
-Commentary paper due (2 pages): Conduct a ritual self-inventory. Spend a day keeping track of the formal and informal rituals you engage in. How do you tell the difference between ritual and everything else, and what difference does it make?
+Commentary paper due
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 16
 {{< tdclose >}}{{< tdopen >}}
@@ -136,7 +136,7 @@ Commentary paper due (2 pages): Conduct a ritual self-inventory. Spend a day kee
 {{< tdclose >}}{{< tdopen >}}
 Representing and displaying culture
 {{< tdclose >}}{{< tdopen >}}
-Commentary paper due (2 pages): What kinds of theories of culture can you find on display at the Peabody museum? Do you notice any tensions between competing theories?
+Commentary paper due
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 18
 {{< tdclose >}}{{< tdopen >}}
@@ -154,8 +154,7 @@ Commentary paper due (2 pages): What kinds of theories of culture can you find o
 {{< tdclose >}}{{< tdopen >}}
 Ritual Workshop II
 {{< tdclose >}}{{< tdopen >}}
-Commentary paper due (2 pages): Recall Graeber and Wengrow’s    
-discussion (pp. 116–17) of two aspects of ritual: subverting established order and asserting established order. With reference to one or both of this week’s readings, describe how expressive practices (ritual, art, and performance) can function as a mode of resistance. How is that different from political protest?
+Commentary paper due
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 20
 {{< tdclose >}}{{< tdopen >}}
@@ -167,7 +166,7 @@ Guest: James Shen, Principal, [People’s Architecture](http://peoples-architect
 {{< tdclose >}}{{< tdopen >}}
 City as Theater
 {{< tdclose >}}{{< tdopen >}}
-Commentary paper due (2 pages): Reflecting on this week’s readings and our conversation with James Shen, discuss why the city is so important for understanding humanity’s past, present and future.
+Commentary paper due 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 22
 {{< tdclose >}}{{< tdopen >}}
@@ -185,7 +184,7 @@ Screening:
 {{< tdclose >}}{{< tdopen >}}
 Uncertainty, precarity, futurity
 {{< tdclose >}}{{< tdopen >}}
-Commentary paper due (2 pages): *The* *Dawn of Everything* ends on a note of optimism about humanity’s prospects for “getting unstuck” from restrictive/repressive social formations. Does “Nomadland” reflect that optimism, or does it suggest a bleaker vision?
+Commentary paper due 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 24
 {{< tdclose >}}{{< tdopen >}}
