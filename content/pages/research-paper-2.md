@@ -7,7 +7,7 @@ uid: 0eae2b99-fa2c-4337-b0ed-ea835cead243
 ---
 For the first research project this semester, we conducted ethnographic research on “naturally occurring” ritual practices, applying social theory to the interpretation of empirical, qualitative data. For this second project, we will apply what we learned to designing our own new rituals.
 
-Although anthropology is often thought of as a descriptive or interpretative social science, it has many practical applications. These include: **applied anthropology**, a “complex of related, research-based, instrumental methods which produce change or stability in specific cultural systems through the provision of data, initiation of direct    
+Although anthropology is often thought of as a descriptive or interpretative social science, it has many practical applications. These include: **applied anthropology**, a “complex of related, research-based, instrumental methods which produce change or stability in specific cultural systems through the provision of data, initiation of direct     
 action, and/or the formulation of policy” (Van Willigen 2002: 10); and **design anthropology**, “in which anthropological methods and concepts are mobilized in the design process” (Murphy 2016: 434). In this project, we will be drawing on these approaches to prototype useful new cultural forms.
 
 **Design Brief**
@@ -23,12 +23,24 @@ Create shared rituals to enhance this class. An academic class is a ritual form 
 Workshop I (Session 15): Open-ended ideation
 
 - Working in 4–5 randomly assigned groups, develop lo-fi classroom ritual wireframe for presentation at end of class.
-- Use RDT Section 1 (“Scope”) and Appendix A.
+- Use “[Ritual Design Toolkit](https://spiral.imperial.ac.uk/handle/10044/1/83960)” (RDT) Section 1 (“Scope”) and Appendix A.
 - Decide on appropriate components for future phases.
 
 Workshop II (Session 19): Small group work on specific design components
 
-- Working in 4–5 groups focusing on self-selected design components, develop lo-fi classroom ritual wireframe for presentation/crit at end of class period.
-- Use RDT Appendix A.
+- Working in 4–5 groups focusing on self-selected design components, develop lo-fi classroom ritual wireframe for presentation/crit at end of class period
+- Use RDT Appendix A
 
 Workshop III (Session 24): Small group work on specific design components
+
+- Continuing to work in small groups, prepare a working prototype for testing/demonstration at the end of class
+
+**Workshop IV (???Session 26???): Ritual Performance**
+
+- Run class according to new ritual protocols
+
+**Final Paper (due Session 26)**
+
+For the final paper, groups will create “portfolios” documenting their contributions to the overall ritual protocol redesign. If appropriate, the portfolio should include a multimedia appendix with photos or videos documenting the design process or final results (does not factor into page count). The portfolio should recapitulate the key elements from the RDT, explaining pertinent aspects of: (1) Context, (2) Aims and Goals, (3) Key Moments, (4) Behaviors, (5) Emotional and Tangible Outcomes. In addition, the paper should also cite at least one reading from class to show how the design applies anthropological ideas to address practical issues of classroom protocol.
+
+Students may submit a 4-page paper individually reflecting on their group’s work. If you wish, each group can submit a single portfolio for a shared grade. In that case, you should add one additional page for each additional collaborator to the final word count. Thus five students, writing together, should submit a final paper of around 9 pages.
