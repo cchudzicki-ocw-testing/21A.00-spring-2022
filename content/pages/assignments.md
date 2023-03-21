@@ -5,13 +5,13 @@ draft: false
 title: Assignments
 uid: cdc992c6-0573-497d-8ab0-f07da01975f1
 ---
-#### Commentaries
+### Commentaries
 
 Of the 10 prompts for 2-page (double-spaced) reading commentaries, students will select 2 each quarter (4 total). These short papers should address specific passages or sections of the readings (include page numbers for any quotations), and will serve as the basis for discussion throughout the semester. To facilitate discussion this should be submitted by 10 AM on the session date.
 
 See the {{% resource_link "712067eb-91d7-44e9-85ea-7ba2af249fae" "Commentaries" %}} section for more detail.
 
-#### Research Papers
+### Research Papers
 
 The two 4-page research papers this semester focus on the topic of ritual. More detailed instructions will be provided several weeks in advance of the due date.
 
