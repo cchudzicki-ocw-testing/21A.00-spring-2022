@@ -19,6 +19,10 @@ How does the discussion of “political self-consciousness” in *The Dawn of Ev
 
 How do the anthropological research methods in described in today’s readings compare to research methods you’ve encountered in other disciplines? What are the distinctive empirical advantages and challenges of these methods?
 
+*Student Example*
+
+ “Commentary Paper on Anthropological Research Methods (PDF).”
+
 **Session 9 Commentary paper**
 
 How do Graeber and Wengrow’s analyses of egalitarianism, autonomy, and private property connect to the events depicted in “[Black Harvest](https://www.imdb.com/title/tt0103817/?ref_=fn_al_tt_1)”?
