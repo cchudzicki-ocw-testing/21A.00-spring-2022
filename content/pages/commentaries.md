@@ -21,7 +21,7 @@ How do the anthropological research methods in described in today’s readings c
 
 *Student Example*
 
- “Commentary Paper on Anthropological Research Methods (PDF).”
+ “Commentary Paper on Anthropological Research Methods.” (PDF)
 
 **Session 9 Commentary paper**
 
