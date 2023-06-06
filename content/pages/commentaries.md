@@ -63,4 +63,8 @@ Reflecting on this week’s readings and our conversation with James Shen, discu
 
 *The* *Dawn of Everything* ends on a note of optimism about humanity’s prospects for “getting unstuck” from restrictive/repressive social formations. Does “[Nomadland](https://www.imdb.com/title/tt9770150/?ref_=fn_al_tt_1)” reflect that optimism, or does it suggest a bleaker vision?
 
+*Student Example*
+
+“The Evolution of Cities.”(PDF) 
+
 Note: Student examples appear courtesy of MIT students and unless otherwise requested, appear anonymously.
