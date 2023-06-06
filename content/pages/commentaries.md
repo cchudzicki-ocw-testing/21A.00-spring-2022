@@ -27,6 +27,10 @@ How do the anthropological research methods in described in today’s readings c
 
 How do Graeber and Wengrow’s analyses of egalitarianism, autonomy, and private property connect to the events depicted in “[Black Harvest](https://www.imdb.com/title/tt0103817/?ref_=fn_al_tt_1)”?
 
+*Student Example*
+
+“The Complexity of Graeber and Wengrow’s Argument.” (PDF)
+
 **Session 11 Commentary paper**
 
 Use one or more concepts from Durkheim to explain how internet memes work, as seen in the case of Baby Forklift and/or Pepe the Frog.
@@ -50,3 +54,5 @@ Reflecting on this week’s readings and our conversation with James Shen, discu
 **Session 23 Commentary paper**
 
 *The* *Dawn of Everything* ends on a note of optimism about humanity’s prospects for “getting unstuck” from restrictive/repressive social formations. Does “[Nomadland](https://www.imdb.com/title/tt9770150/?ref_=fn_al_tt_1)” reflect that optimism, or does it suggest a bleaker vision?
+
+Note: Student examples appear courtesy of MIT students and unless otherwise requested, appear anonymously.
