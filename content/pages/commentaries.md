@@ -65,6 +65,4 @@ Reflecting on this week’s readings and our conversation with James Shen, discu
 
 *Student Example*
 
-“The Evolution of Cities.”(PDF) 
-
 Note: Student examples appear courtesy of MIT students and unless otherwise requested, appear anonymously.
