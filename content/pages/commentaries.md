@@ -35,6 +35,10 @@ How do Graeber and Wengrow’s analyses of egalitarianism, autonomy, and private
 
 Use one or more concepts from Durkheim to explain how internet memes work, as seen in the case of Baby Forklift and/or Pepe the Frog.
 
+*Student Example*
+
+“Is a Meme a Totem?” (PDF)
+
 **Session 15 Commentary paper**
 
 Conduct a ritual self-inventory. Spend a day keeping track of the formal and informal rituals you engage in. How do you tell the difference between ritual and everything else, and what difference does it make?
