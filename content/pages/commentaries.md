@@ -21,7 +21,7 @@ How do the anthropological research methods in described in today’s readings c
 
 *Student Example*
 
- {{% resource_link "e1e19aeb-60b1-4e5e-b680-4124a08e1c86" "“Commentary Paper on Anthropological Research Methods.” (PDF)" %}}
+ {{% resource_link "e1e19aeb-60b1-4e5e-b680-4124a08e1c86" "“Commentary Paper on Anthropological Research Methods.”(PDF)" %}}
 
 **Session 9 Commentary paper**
 
@@ -29,7 +29,7 @@ How do Graeber and Wengrow’s analyses of egalitarianism, autonomy, and private
 
 *Student Example*
 
-{{% resource_link "9b7143c5-d3ad-41f3-ac1d-212e49d1f191" "“The Complexity of Graeber and Wengrow’s Argument.” (PDF)" %}}
+{{% resource_link "9b7143c5-d3ad-41f3-ac1d-212e49d1f191" "“The Complexity of Graeber and Wengrow’s Argument.”(PDF)" %}}
 
 **Session 11 Commentary paper**
 
@@ -37,7 +37,7 @@ Use one or more concepts from Durkheim to explain how internet memes work, as se
 
 *Student Example*
 
-“Is a Meme a Totem?” (PDF)
+{{% resource_link "b0428fda-50b8-467c-8a47-7c7c91f847ff" "“Is a Meme a Totem?”(PDF)" %}}
 
 **Session 15 Commentary paper**
 
@@ -53,7 +53,7 @@ Recall Graeber and Wengrow’s discussion (pp. 116–17) of two aspects of ritu
 
 *Student Example*
 
-{{% resource_link "662d04fc-1c2e-429e-a9af-c31c3732a473" "“Rituals and Established Order.” (PDF)" %}}
+{{% resource_link "662d04fc-1c2e-429e-a9af-c31c3732a473" "“Rituals and Established Order.”(PDF)" %}}
 
 **Session 21 Commentary paper**
 
