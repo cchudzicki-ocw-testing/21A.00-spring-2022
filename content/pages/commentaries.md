@@ -47,6 +47,10 @@ What kinds of theories of culture can you find on display at the [Peabody Museum
 
 Recall Graeber and Wengrow’s discussion (pp. 116–17) of two aspects of ritual: subverting established order and asserting established order. With reference to one or both of this week’s readings, describe how expressive practices (ritual, art, and performance) can function as a mode of resistance. How is that different from political protest?
 
+*Student Example*
+
+“Rituals and Established Order.” (PDF)
+
 **Session 21 Commentary paper**
 
 Reflecting on this week’s readings and our conversation with James Shen, discuss why the city is so important for understanding humanity’s past, present and future.
