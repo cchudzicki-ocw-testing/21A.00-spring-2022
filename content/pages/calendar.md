@@ -17,6 +17,26 @@ uid: b97e2122-ae28-44fa-a8e0-094b4d017cac
 
 Commentary paper due
 
+### Session 5: *Highlands Trilogy*, part 2
+
+*Screening:* [*Joe Leahy’s Neighbours*](https://www.imdb.com/title/tt0460476/?ref_=nv_sr_srsg_0)*.* Directed by Robin Anderson and Bob Connolly. Color, 90 min. 1989.
+
+### Session 6: Human origins and social evolution
+
+Commentary paper due
+
+### Session 7: Ethnographic methods and participant observation
+
+Commentary paper due
+
+### Session 8: *Highlands Trilogy*, part 3
+
+*Screening:* [*Black Harvest*](https://www.imdb.com/title/tt0103817/?ref_=fn_al_tt_1). Directed by Robin Anderson and Bob Connolly. Color, 90 min. 1992.
+
+### Session 9: Politics and ritual
+
+Commentary paper due
+
 {{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
 SESS #
 {{< thclose >}}{{< thopen >}}
