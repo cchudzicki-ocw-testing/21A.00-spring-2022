@@ -43,6 +43,10 @@ Use one or more concepts from Durkheim to explain how internet memes work, as se
 
 Conduct a ritual self-inventory. Spend a day keeping track of the formal and informal rituals you engage in. How do you tell the difference between ritual and everything else, and what difference does it make?
 
+*Student Example*
+
+“Commentary Paper, Example 1.”(PDF)
+
 **Session 17 Commentary paper**
 
 What kinds of theories of culture can you find on display at the [Peabody Museum of Archaeology & Ethnology](https://peabody.harvard.edu/home)? Do you notice any tensions between competing theories?
@@ -64,5 +68,7 @@ Reflecting on this week’s readings and our conversation with James Shen, discu
 *The* *Dawn of Everything* ends on a note of optimism about humanity’s prospects for “getting unstuck” from restrictive/repressive social formations. Does “[Nomadland](https://www.imdb.com/title/tt9770150/?ref_=fn_al_tt_1)” reflect that optimism, or does it suggest a bleaker vision?
 
 *Student Example*
+
+“Commentary Paper, Example 1.”(PDF)
 
 Note: Student examples appear courtesy of MIT students and unless otherwise requested, appear anonymously.
