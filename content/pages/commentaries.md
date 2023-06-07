@@ -45,7 +45,7 @@ Conduct a ritual self-inventory. Spend a day keeping track of the formal and inf
 
 *Student Example*
 
-{{% resource_link "6f6032f7-d22b-4203-9497-be388d094cfa" "“Session 15 Commentary Paper, Example 1.”(PDF)" %}}
+“Session 15 Commentary Paper, Example 1.”(PDF)
 
 **Session 17 Commentary paper**
 
@@ -65,7 +65,7 @@ Reflecting on this week’s readings and our conversation with James Shen, discu
 
 *Student Example*
 
-{{% resource_link "9ce75eda-a480-45a1-b6df-adb790a8c074" "“Session 21 Commentary Paper, Example 1.”(PDF)" %}}
+“Session 21 Commentary Paper, Example 1.”(PDF)
 
 **Session 23 Commentary paper**
 
