@@ -158,7 +158,7 @@ Commentary paper due
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 20
 {{< tdclose >}}{{< tdopen >}}
-Guest: James Shen, Principal, [People’s Architecture](http://peoples-architecture.com/pao/en)
+Guest: James Shen, Principal, [People’s Architecture Office](http://peoples-architecture.com/pao/en)
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
