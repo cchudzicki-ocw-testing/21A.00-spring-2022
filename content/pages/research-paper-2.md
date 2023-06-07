@@ -7,7 +7,7 @@ uid: 0eae2b99-fa2c-4337-b0ed-ea835cead243
 ---
 For the first research project this semester, we conducted ethnographic research on “naturally occurring” ritual practices, applying social theory to the interpretation of empirical, qualitative data. For this second project, we will apply what we learned to designing our own new rituals.
 
-Although anthropology is often thought of as a descriptive or interpretative social science, it has many practical applications. These include: **applied anthropology**, a “complex of related, research-based, instrumental methods which produce change or stability in specific cultural systems through the provision of data, initiation of direct             
+Although anthropology is often thought of as a descriptive or interpretative social science, it has many practical applications. These include: **applied anthropology**, a “complex of related, research-based, instrumental methods which produce change or stability in specific cultural systems through the provision of data, initiation of direct              
 action, and/or the formulation of policy” (Van Willigen 2002: 10); and **design anthropology**, “in which anthropological methods and concepts are mobilized in the design process” (Murphy 2016: 434). In this project, we will be drawing on these approaches to prototype useful new cultural forms.
 
 **Design Brief**
@@ -73,6 +73,6 @@ Harvard’s [Vision Lab](https://cmp.gsas.harvard.edu/2019/04/18/vision-lab-by-k
 
 {{% resource_link "299cf773-46a1-4bbf-824c-7e3ea410d14a" "“21A.00 Lives In Us.”(PDF)" %}} 
 
-{{% resource_link "38780d5c-37a7-4004-8c70-c1523edc65e7" "“Ritual Design Reflection: Beginning.”(PDF)" %}}
+“Ritual Design Reflection: Beginning.”(PDF)
 
 Note: Student examples appear courtesy of MIT students and unless otherwise requested, appear anonymously.
