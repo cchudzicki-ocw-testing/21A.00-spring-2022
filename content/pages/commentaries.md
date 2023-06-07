@@ -37,7 +37,7 @@ Use one or more concepts from Durkheim to explain how internet memes work, as se
 
 *Student Example*
 
-“Is a Meme a Totem?”(PDF)
+{{% resource_link "b0428fda-50b8-467c-8a47-7c7c91f847ff" "“Is a Meme a Totem?”(PDF)" %}}
 
 **Session 15 Commentary paper**
 
@@ -45,7 +45,7 @@ Conduct a ritual self-inventory. Spend a day keeping track of the formal and inf
 
 *Student Example*
 
-“Session 15 Commentary Paper, Example 1.”(PDF)
+{{% resource_link "6f6032f7-d22b-4203-9497-be388d094cfa" "“Session 15 Commentary Paper, Example 1.”(PDF)" %}}
 
 **Session 17 Commentary paper**
 
@@ -65,7 +65,7 @@ Reflecting on this week’s readings and our conversation with James Shen, discu
 
 *Student Example*
 
-“Session 21 Commentary Paper, Example 1.”(PDF)
+{{% resource_link "9ce75eda-a480-45a1-b6df-adb790a8c074" "“Session 21 Commentary Paper, Example 1.”(PDF)" %}}
 
 **Session 23 Commentary paper**
 
@@ -73,6 +73,6 @@ Reflecting on this week’s readings and our conversation with James Shen, discu
 
 *Student Example*
 
-“Session 23 Commentary Paper, Example 1.”(PDF)
+{{% resource_link "21fa471f-eba8-455a-a537-63d87b0baaf9" "“Session 23 Commentary Paper, Example 1.”(PDF)" %}}
 
 Note: Student examples appear courtesy of MIT students and unless otherwise requested, appear anonymously.
