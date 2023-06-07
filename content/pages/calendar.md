@@ -11,9 +11,7 @@ uid: b97e2122-ae28-44fa-a8e0-094b4d017cac
 
 ### Session 3: *Highlands Trilogy*, part 1
 
-*Screening:*
-
-[*First Contact*](https://www.imdb.com/title/tt0085544/?ref_=nv_sr_srsg_4). Directed by Robin Anderson and Bob Connolly. Color, 58 min. 1982.
+*Screening:* [*First Contact*](https://www.imdb.com/title/tt0085544/?ref_=nv_sr_srsg_4). Directed by Robin Anderson and Bob Connolly. Color, 58 min. 1982.
 
 ### Session 4: Cross-cultural contact
 
