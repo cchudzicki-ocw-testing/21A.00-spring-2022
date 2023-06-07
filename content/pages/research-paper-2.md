@@ -7,7 +7,7 @@ uid: 0eae2b99-fa2c-4337-b0ed-ea835cead243
 ---
 For the first research project this semester, we conducted ethnographic research on “naturally occurring” ritual practices, applying social theory to the interpretation of empirical, qualitative data. For this second project, we will apply what we learned to designing our own new rituals.
 
-Although anthropology is often thought of as a descriptive or interpretative social science, it has many practical applications. These include: **applied anthropology**, a “complex of related, research-based, instrumental methods which produce change or stability in specific cultural systems through the provision of data, initiation of direct          
+Although anthropology is often thought of as a descriptive or interpretative social science, it has many practical applications. These include: **applied anthropology**, a “complex of related, research-based, instrumental methods which produce change or stability in specific cultural systems through the provision of data, initiation of direct           
 action, and/or the formulation of policy” (Van Willigen 2002: 10); and **design anthropology**, “in which anthropological methods and concepts are mobilized in the design process” (Murphy 2016: 434). In this project, we will be drawing on these approaches to prototype useful new cultural forms.
 
 **Design Brief**
@@ -35,7 +35,7 @@ Workshop III (Session 24): Small group work on specific design components
 
 - Continuing to work in small groups, prepare a working prototype for testing/demonstration at the end of class
 
-**Workshop IV (???Session 26???): Ritual Performance**
+Workshop IV (Session 26): Ritual Performance
 
 - Run class according to new ritual protocols
 
