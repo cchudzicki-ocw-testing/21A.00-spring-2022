@@ -65,7 +65,7 @@ Ethnographic Methods and participant observation
 
 Abidin, Crystal. “[Somewhere between Here and There: Negotiating Researcher Visibility in a Digital Ethnography of the Influencer Industry](https://jdsr.se/ojs/index.php/jdsr/article/view/20/15).” *Journal of Digital Social Research* 2, no. 1 (2020): 56–76.
 
-Johnson, Norris Brock. “[Sex, Color, and Rites of Passage in](https://www.jstor.org/stable/44125835?searchText=au%3A%22NORRIS+BROCK+JOHNSON%22&searchUri=%2Faction%2FdoBasicSearch%3FQuery%3Dau%253A%2522NORRIS%2520BROCK%2520JOHNSON%2522&ab_segments=0%2Fbasic_phrase_search%2Fcontrol&refreqid=fastly-default%3Ab096b0510d1fa6b9ae5e5e7d675c6758)           
+Johnson, Norris Brock. “[Sex, Color, and Rites of Passage in](https://www.jstor.org/stable/44125835?searchText=au%3A%22NORRIS+BROCK+JOHNSON%22&searchUri=%2Faction%2FdoBasicSearch%3FQuery%3Dau%253A%2522NORRIS%2520BROCK%2520JOHNSON%2522&ab_segments=0%2Fbasic_phrase_search%2Fcontrol&refreqid=fastly-default%3Ab096b0510d1fa6b9ae5e5e7d675c6758)            
 [Ethnographic Research](https://www.jstor.org/stable/44125835?searchText=au%3A%22NORRIS+BROCK+JOHNSON%22&searchUri=%2Faction%2FdoBasicSearch%3FQuery%3Dau%253A%2522NORRIS%2520BROCK%2520JOHNSON%2522&ab_segments=0%2Fbasic_phrase_search%2Fcontrol&refreqid=fastly-default%3Ab096b0510d1fa6b9ae5e5e7d675c6758).” *Human Organization* 43, no. 2(1984): 108–20.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
@@ -211,7 +211,7 @@ No readings assigned.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 26
 {{< tdclose >}}{{< tdopen >}}
-Reflecting back, looking forward
+Ritual Workshop IV: Ritual performance
 {{< tdclose >}}{{< tdopen >}}
 No readings assigned.
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
