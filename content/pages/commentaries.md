@@ -37,7 +37,7 @@ Use one or more concepts from Durkheim to explain how internet memes work, as se
 
 *Student Example*
 
-{{% resource_link "b0428fda-50b8-467c-8a47-7c7c91f847ff" "“Is a Meme a Totem?”(PDF)" %}}
+“Is a Meme a Totem?”(PDF)
 
 **Session 15 Commentary paper**
 
@@ -45,7 +45,7 @@ Conduct a ritual self-inventory. Spend a day keeping track of the formal and inf
 
 *Student Example*
 
-“Commentary Paper, Example 1.”(PDF)
+“Session 15 Commentary Paper, Example 1.”(PDF)
 
 **Session 17 Commentary paper**
 
@@ -63,12 +63,16 @@ Recall Graeber and Wengrow’s discussion (pp. 116–17) of two aspects of ritu
 
 Reflecting on this week’s readings and our conversation with James Shen, discuss why the city is so important for understanding humanity’s past, present and future.
 
+*Student Example*
+
+“Session 21 Commentary Paper, Example 1.”(PDF)
+
 **Session 23 Commentary paper**
 
 *The* *Dawn of Everything* ends on a note of optimism about humanity’s prospects for “getting unstuck” from restrictive/repressive social formations. Does “[Nomadland](https://www.imdb.com/title/tt9770150/?ref_=fn_al_tt_1)” reflect that optimism, or does it suggest a bleaker vision?
 
 *Student Example*
 
-“Commentary Paper, Example 1.”(PDF)
+“Session 23 Commentary Paper, Example 1.”(PDF)
 
 Note: Student examples appear courtesy of MIT students and unless otherwise requested, appear anonymously.
