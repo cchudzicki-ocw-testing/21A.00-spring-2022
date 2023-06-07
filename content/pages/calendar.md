@@ -200,7 +200,7 @@ Ritual performance
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 26
 {{< tdclose >}}{{< tdopen >}}
-Reflecting back, looking forward
+Ritual Workshop IV: Ritual performance
 {{< tdclose >}}{{< tdopen >}}
 Ritual portfolio due (4 pages)
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
