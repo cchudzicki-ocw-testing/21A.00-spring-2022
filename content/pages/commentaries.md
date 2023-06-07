@@ -5,7 +5,7 @@ draft: false
 title: Commentaries
 uid: 712067eb-91d7-44e9-85ea-7ba2af249fae
 ---
-Of the 10 prompts for 2-page (double-spaced) reading commentaries, students will select 2 each quarter (4 total). These short papers should address specific passages or sections of the readings (include page numbers for any quotations), and will serve as the basis for discussion throughout the semester. To facilitate discussion this should be submitted by 10 AM on the session date.
+Of the 10 prompts for 2-page (double-spaced) reading commentaries, students will select 2 each quarter (4 total). These short papers should address specific passages or sections of the readings (include page numbers for any quotations), and will serve as the basis for discussion throughout the semester. To facilitate discussion this should be submitted by 10 AM for the session listed.
 
 **Session 4 Commentary paper**
 
@@ -21,7 +21,7 @@ How do the anthropological research methods in described in today’s readings c
 
 *Student Example*
 
- {{% resource_link "e1e19aeb-60b1-4e5e-b680-4124a08e1c86" "“Commentary Paper on Anthropological Research Methods.”(PDF)" %}}
+ {{% resource_link "e1e19aeb-60b1-4e5e-b680-4124a08e1c86" "“Commentary Paper on Anthropological Research Methods.” (PDF)" %}}
 
 **Session 9 Commentary paper**
 
@@ -29,7 +29,7 @@ How do Graeber and Wengrow’s analyses of egalitarianism, autonomy, and private
 
 *Student Example*
 
-{{% resource_link "9b7143c5-d3ad-41f3-ac1d-212e49d1f191" "“The Complexity of Graeber and Wengrow’s Argument.”(PDF)" %}}
+{{% resource_link "9b7143c5-d3ad-41f3-ac1d-212e49d1f191" "“The Complexity of Graeber and Wengrow’s Argument.” (PDF)" %}}
 
 **Session 11 Commentary paper**
 
@@ -37,7 +37,7 @@ Use one or more concepts from Durkheim to explain how internet memes work, as se
 
 *Student Example*
 
-{{% resource_link "b0428fda-50b8-467c-8a47-7c7c91f847ff" "“Is a Meme a Totem?”(PDF)" %}}
+{{% resource_link "b0428fda-50b8-467c-8a47-7c7c91f847ff" "“Is a Meme a Totem?” (PDF)" %}}
 
 **Session 15 Commentary paper**
 
@@ -45,7 +45,7 @@ Conduct a ritual self-inventory. Spend a day keeping track of the formal and inf
 
 *Student Example*
 
-{{% resource_link "6f6032f7-d22b-4203-9497-be388d094cfa" "“Session 15 Commentary Paper, Example 1.”(PDF)" %}}
+{{% resource_link "6f6032f7-d22b-4203-9497-be388d094cfa" "“Session 15 Commentary Paper, Example 1.” (PDF)" %}}
 
 **Session 17 Commentary paper**
 
@@ -57,7 +57,7 @@ Recall Graeber and Wengrow’s discussion (pp. 116–17) of two aspects of ritu
 
 *Student Example*
 
-{{% resource_link "662d04fc-1c2e-429e-a9af-c31c3732a473" "“Rituals and Established Order.”(PDF)" %}}
+{{% resource_link "662d04fc-1c2e-429e-a9af-c31c3732a473" "“Rituals and Established Order.” (PDF)" %}}
 
 **Session 21 Commentary paper**
 
@@ -65,7 +65,7 @@ Reflecting on this week’s readings and our conversation with James Shen, discu
 
 *Student Example*
 
-{{% resource_link "9ce75eda-a480-45a1-b6df-adb790a8c074" "“Session 21 Commentary Paper, Example 1.”(PDF)" %}}
+{{% resource_link "9ce75eda-a480-45a1-b6df-adb790a8c074" "“Session 21 Commentary Paper, Example 1.” (PDF)" %}}
 
 **Session 23 Commentary paper**
 
@@ -73,6 +73,6 @@ Reflecting on this week’s readings and our conversation with James Shen, discu
 
 *Student Example*
 
-{{% resource_link "21fa471f-eba8-455a-a537-63d87b0baaf9" "“Session 23 Commentary Paper, Example 1.”(PDF)" %}}
+{{% resource_link "21fa471f-eba8-455a-a537-63d87b0baaf9" "“Session 23 Commentary Paper, Example 1.” (PDF)" %}}
 
 Note: Student examples appear courtesy of MIT students and unless otherwise requested, appear anonymously.
