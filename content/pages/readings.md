@@ -7,6 +7,103 @@ uid: 48098d0a-e0a4-4c11-bfe0-31b7aff16672
 ---
 \[G\] = Graeber, David, and David Wengrow. *The Dawn of Everything: A New History of Humanity*. Farrar, Straus and Giroux, 2021. ISBN: ‎9780374157357. \[Preview with [Google Books](https://www.google.com/books/edition/The_Dawn_of_Everything/9xkQEAAAQBAJ?hl=en&gbpv=1)\]
 
+## Week 1 (26 pages to read)
+
+### Session 1: Overview of class
+
+No readings assigned.
+
+### Session 2: The problem of “human nature” (plus introductions)
+
+\[G\] Chapter 1: Farewell to Humanity's Childhood. \[Preview with [Google Books](https://www.google.com/books/edition/The_Dawn_of_Everything/9xkQEAAAQBAJ?hl=en&gbpv=1)\]
+
+## Week 2 (51 pages)
+
+### Session 3: *Highlands Trilogy*, part 1
+
+\[G\] Chapter 2: Wicked Liberty. \[Preview with [Google Books](https://www.google.com/books/edition/The_Dawn_of_Everything/9xkQEAAAQBAJ?hl=en&gbpv=1)\]
+
+### Session 4: Cross-cultural contact
+
+No readings assigned.
+
+## Week 3 (41 pages)
+
+### Session 5: *Highlands Trilogy*, part 2
+
+\[G\] Chapter 3: Unfreezing the Ice Age In and Out of Chains: The Protean Possibilities of Human Politics.
+
+### Session 6: Human origins and social evolution
+
+No readings assigned.
+
+## Week 4 (32 pages)
+
+### Session 7: Ethnographic methods and participant observation
+
+Abidin, Crystal. “[Somewhere between Here and There: Negotiating Researcher Visibility in a Digital Ethnography of the Influencer Industry](https://jdsr.se/ojs/index.php/jdsr/article/view/20/15).” *Journal of Digital Social Research* 2, no. 1 (2020): 56–76.
+
+Johnson, Norris Brock. “[Sex, Color, and Rites of Passage in](https://www.jstor.org/stable/44125835?searchText=au%3A%22NORRIS+BROCK+JOHNSON%22&searchUri=%2Faction%2FdoBasicSearch%3FQuery%3Dau%253A%2522NORRIS%2520BROCK%2520JOHNSON%2522&ab_segments=0%2Fbasic_phrase_search%2Fcontrol&refreqid=fastly-default%3Ab096b0510d1fa6b9ae5e5e7d675c6758)             
+[Ethnographic Research](https://www.jstor.org/stable/44125835?searchText=au%3A%22NORRIS+BROCK+JOHNSON%22&searchUri=%2Faction%2FdoBasicSearch%3FQuery%3Dau%253A%2522NORRIS%2520BROCK%2520JOHNSON%2522&ab_segments=0%2Fbasic_phrase_search%2Fcontrol&refreqid=fastly-default%3Ab096b0510d1fa6b9ae5e5e7d675c6758).” *Human Organization* 43, no. 2 (1984): 108–20.
+
+## Week 5 (44 pages)
+
+### Session 8: *Highlands Trilogy*, part 3
+
+\[G\] Chapter 4: Free People, the Origin of Cultures, and the Advent of Private Property. 
+
+### Session 9: Politics and ritual
+
+No readings assigned.
+
+## Week 6 (52 pages)
+
+### Session 10: “Feels Good Man”
+
+Durkheim, Emile. “Origin of These Beliefs (Conclusion): Origin of the Notion of Totemic Principle, or Mana.” Chapter 7 in *Elementary Forms of the Religious Life*. Translated by Karen E. Field. Free Press, 1995. ISBN: ‎9780029079379. 
+
+Wong, Jamie, Crystal Lee, et al. “[‘Let’s Go, Baby Forklift!’: Fandom Governance and the Political Power of Cuteness in China](https://journals.sagepub.com/doi/full/10.1177/20563051211024960).” *Social Media + Society* 7, no. 2 (2021): 1–18.
+
+### Session 11: Ritual and expressive culture
+
+No readings assigned.
+
+## Week 7 (0 pages)
+
+### Session 12: Presentations (1)
+
+No readings assigned.
+
+### Session 13: Presentations (2)
+
+No readings assigned.
+
+### Session 14: Can rituals be designed?
+
+### Session 15: Ritual Workshop I: The “Ritual Design Toolkit”
+
+### Session 16: [Peabody Museum of Archaeology & Ethnology](https://peabody.harvard.edu/home) field trip
+
+### Session 17: Representing and displaying culture
+
+### Session 18: *“Bored in Heaven”*
+
+### Session 19: Ritual Workshop II
+
+### Session 20: Guest: James Shen, Principal, [People’s Architecture Office](http://peoples-architecture.com/pao/en)
+
+### Session 21: City as Theater
+
+### Session 22: *“Nomadland”*
+
+### Session 23: Uncertainty, precarity, futurity
+
+### Session 24: Ritual Workshop III: Final plans and prototypes
+
+### Session 25: Ritual performance
+
+### Session 26: Ritual Workshop IV: Ritual performance
+
 {{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
 SESS #
 {{< thclose >}}{{< thopen >}}
@@ -65,7 +162,7 @@ Ethnographic Methods and participant observation
 
 Abidin, Crystal. “[Somewhere between Here and There: Negotiating Researcher Visibility in a Digital Ethnography of the Influencer Industry](https://jdsr.se/ojs/index.php/jdsr/article/view/20/15).” *Journal of Digital Social Research* 2, no. 1 (2020): 56–76.
 
-Johnson, Norris Brock. “[Sex, Color, and Rites of Passage in](https://www.jstor.org/stable/44125835?searchText=au%3A%22NORRIS+BROCK+JOHNSON%22&searchUri=%2Faction%2FdoBasicSearch%3FQuery%3Dau%253A%2522NORRIS%2520BROCK%2520JOHNSON%2522&ab_segments=0%2Fbasic_phrase_search%2Fcontrol&refreqid=fastly-default%3Ab096b0510d1fa6b9ae5e5e7d675c6758)            
+Johnson, Norris Brock. “[Sex, Color, and Rites of Passage in](https://www.jstor.org/stable/44125835?searchText=au%3A%22NORRIS+BROCK+JOHNSON%22&searchUri=%2Faction%2FdoBasicSearch%3FQuery%3Dau%253A%2522NORRIS%2520BROCK%2520JOHNSON%2522&ab_segments=0%2Fbasic_phrase_search%2Fcontrol&refreqid=fastly-default%3Ab096b0510d1fa6b9ae5e5e7d675c6758)             
 [Ethnographic Research](https://www.jstor.org/stable/44125835?searchText=au%3A%22NORRIS+BROCK+JOHNSON%22&searchUri=%2Faction%2FdoBasicSearch%3FQuery%3Dau%253A%2522NORRIS%2520BROCK%2520JOHNSON%2522&ab_segments=0%2Fbasic_phrase_search%2Fcontrol&refreqid=fastly-default%3Ab096b0510d1fa6b9ae5e5e7d675c6758).” *Human Organization* 43, no. 2(1984): 108–20.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
