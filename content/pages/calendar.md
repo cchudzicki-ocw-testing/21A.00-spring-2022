@@ -51,7 +51,47 @@ Commentary paper due
 
 Research paper 1 due: Ritual Ethnography (4 pages)
 
- 
+### Session 14: Can rituals be designed?
+
+### Session 15: Ritual Workshop I: The “Ritual Design Toolkit”
+
+Commentary paper due
+
+### Session 16: [Peabody Museum of Archaeology & Ethnology](https://peabody.harvard.edu/home) field trip
+
+### Session 17: Representing and displaying culture
+
+Commentary paper due
+
+### Session 18: *“Bored in Heaven”*
+
+*Screening:* [*Bored in Heaven*](https://www.imdb.com/title/tt1920863/?ref_=fn_al_tt_1)*.* Directed by Kenneth Dean and Cora Dean. Color, 80 min. 2011.
+
+### Session 19: Ritual Workshop II
+
+Commentary paper due
+
+### Session 20: Guest: James Shen, Principal, [People’s Architecture Office](http://peoples-architecture.com/pao/en)
+
+### Session 21: City as Theater
+
+Commentary paper due
+
+### Session 22: *“Nomadland”*
+
+Screening: [*Nomadland*](https://www.imdb.com/title/tt9770150/?ref_=fn_al_tt_1). Directed by Chloé Zhao. Color, 107 min. 2020.
+
+### Session 23: Uncertainty, precarity, futurity
+
+Commentary paper due
+
+### Session 24: Ritual Workshop III: Final plans and prototypes
+
+### Session 25: Ritual performance
+
+### Session 26: Ritual Workshop IV: Ritual performance
+
+Ritual portfolio due (4 pages)
 
 {{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
 SESS #
