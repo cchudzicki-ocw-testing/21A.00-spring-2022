@@ -3,13 +3,13 @@ leftnav:
   name: Syllabus
   url: /pages/syllabus
   weight: 10
-- identifier: 211fb6ec-f269-4e1d-a6fd-0ffa12227689
-  name: Instructor Insights
-  url: /pages/instructor-insights
-  weight: 20
 - identifier: b97e2122-ae28-44fa-a8e0-094b4d017cac
   name: Calendar
   url: /pages/calendar
+  weight: 20
+- identifier: 211fb6ec-f269-4e1d-a6fd-0ffa12227689
+  name: Instructor Insights
+  url: /pages/instructor-insights
   weight: 30
 - identifier: 48098d0a-e0a4-4c11-bfe0-31b7aff16672
   name: Readings
