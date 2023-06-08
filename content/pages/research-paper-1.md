@@ -2,7 +2,7 @@
 content_type: page
 description: This section contains information for the first research paper.
 draft: false
-title: Research Paper 1
+title: Research Paper 1 - Ritual Ethnography
 uid: 01e89a74-af4a-45f6-905b-a718804e7079
 ---
 For the first ethnographic research paper, choose a form of ritual (or expressive culture more broadly) to study anthropologically. You may want to pick a form of expressive culture you know well, or something you don’t know anything about (yet). The challenge is to identify how if creates meaning and enacts identity for people who produce and consume it. How does this form of expressive culture promote social cohesion or create social difference? Are there conflicting understandings or interpretations surrounding it?
