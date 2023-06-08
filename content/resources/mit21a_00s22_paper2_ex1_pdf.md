@@ -9,7 +9,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types:
-- Written Assignments with Examples
+- Written Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
 title: '21A.00S22 Assignments: Research Paper 2, Student Example 1: 21A.00 Lives In
