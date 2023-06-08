@@ -14,3 +14,5 @@ You may do this project with a partner (no more than 2 people per group) for a s
 For the presentations, you should just plan to tell us—in 3 minutes or less—a bit about your particular case study and how you’re thinking about analyzing it. If you have specific questions about how to analyze your findings, please pose them in the presentation and we will try to give you immediate feedback.
 
 If you need an extension beyond the due date to incorporate any feedback (or if you need to request an extension for any other reason), just let us know.
+
+This paper is due during Session 13.
