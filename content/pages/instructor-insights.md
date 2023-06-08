@@ -40,13 +40,13 @@ None
 
 ### Requirements Satisfied
 
-- [GIR CI-H](https://registrar.mit.edu/registration-academics/academic-requirements/communication-requirement/ci-hhw-subjects)
-- [GIR HASS-H](https://firstyear.mit.edu/academics-exploration/general-institute-requirements-girs/humanities-arts-and-social-sciences-hass-requirement/)
+- [GIR HASS-S](https://firstyear.mit.edu/academics-exploration/general-institute-requirements-girs/humanities-arts-and-social-sciences-hass-requirement/)
 - *21A.00 Introduction to Anthropology* can be applied toward a [Concentration, Minor, or Bachelor of Science in Anthropology](https://anthropology.mit.edu/undergraduate/requirements), but is not required.
+- *21A.00 Introduction to Anthropology* is a required course for the [Bachelor of Science in Archaeology and Materials](https://dmse.mit.edu/undergraduate/programs/3c).
 
 ### Offered
 
-About once a year, usually in the spring semester
+Once or twice a year, most often in the spring semester
 
 ## Assessment and Grading
 
@@ -68,11 +68,11 @@ Students’ grades were based on the following activities:
 
 ### Enrollment
 
-17 students
+36 students
 
-### Breakdown by Year
+### Student Background
 
-A fairly even distribution from first- through fourth-year undergraduates
+Enrollment in this subject roughly reflects the overall undergraduate student population: mostly engineering majors (and of those, mainly computer scientists), followed by science majors. There was one SHASS major, with a handful of anthropology minors and concentrators.
 
 ## How Student Time Was Spent
 
@@ -84,4 +84,4 @@ During an average week, students were expected to spend 12 hours on the course, 
 
 ### Out of Class
 
-- Outside of class, students read assigned texts, posted on the class discussion forum, completed written assignments, and prepared to deliver in-class reports.
+- Outside of class, students read assigned texts, completed written assignments, and prepared to deliver in-class presentations.
