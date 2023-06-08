@@ -37,6 +37,22 @@ Commentary paper due
 
 Commentary paper due
 
+### Session 10: “Feels Good Man”
+
+*Screening:* [*Feels Good Man*](https://www.imdb.com/title/tt11394182/?ref_=fn_al_tt_1). Directed by Arthur Jones. Color, 92 min. 2020.
+
+### Session 11: Ritual and expressive culture
+
+Commentary paper due
+
+### Session 12: Presentations (1)
+
+### Session 13: Presentations (2)
+
+Research paper 1 due: Ritual Ethnography (4 pages)
+
+ 
+
 {{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
 SESS #
 {{< thclose >}}{{< thopen >}}
