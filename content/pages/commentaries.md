@@ -67,7 +67,7 @@ Reflecting on this week’s readings and our conversation with James Shen, discu
 
 {{% resource_link "9ce75eda-a480-45a1-b6df-adb790a8c074" "“Session 21 Commentary Paper, Example 1.” (PDF)" %}}
 
-“The Urban Built Environment: A Mirror and a Laboratory Benchtop.” (PDF) (Courtesy of Arbri Kopliku. Used with permission.)
+{{% resource_link "6d09f808-9a3b-4ef7-8180-eb033a5b37ac" "“The Urban Built Environment: A Mirror and a Laboratory Benchtop.” (PDF)" %}} (Courtesy of Arbri Kopliku. Used with permission.)
 
 **Session 23 Commentary paper**
 
@@ -77,6 +77,6 @@ Reflecting on this week’s readings and our conversation with James Shen, discu
 
 {{% resource_link "21fa471f-eba8-455a-a537-63d87b0baaf9" "“Session 23 Commentary Paper, Example 1.” (PDF)" %}}
 
-“Nomadland: A Tale of Sharp Contrasts and of Blurry Conclusions.” (PDF) (Courtesy of Arbri Kopliku. Used with permission.)
+{{% resource_link "91c9325f-78bb-4669-8e47-e0bb69220bf9" "“Nomadland: A Tale of Sharp Contrasts and of Blurry Conclusions.” (PDF)" %}} (Courtesy of Arbri Kopliku. Used with permission.)
 
 Note: Student examples appear courtesy of MIT students and unless otherwise requested, appear anonymously.
