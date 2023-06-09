@@ -35,9 +35,11 @@ How do Graeber and Wengrow’s analyses of egalitarianism, autonomy, and private
 
 Use one or more concepts from Durkheim to explain how internet memes work, as seen in the case of Baby Forklift and/or Pepe the Frog.
 
-*Student Example*
+*Student Examples*
 
 {{% resource_link "b0428fda-50b8-467c-8a47-7c7c91f847ff" "“Is a Meme a Totem?” (PDF)" %}}
+
+“Memes: Agents of Community Membership.” (PDF)
 
 **Session 15 Commentary paper**
 
