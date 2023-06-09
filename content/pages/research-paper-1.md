@@ -19,6 +19,6 @@ This paper is due during Session 13.
 
 *Student Example*
 
-“Affirming Identity through the Ash Wednesday Ritual.” (PDF)
+{{% resource_link "4c1e7f75-e878-47f8-932a-dfe9cf6315da" "“Affirming Identity through the Ash Wednesday Ritual.” (PDF)" %}}
 
 Note: Student examples appear courtesy of MIT students and unless otherwise requested, appear anonymously.
