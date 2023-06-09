@@ -17,8 +17,10 @@ If you need an extension beyond the due date to incorporate any feedback (or if 
 
 This paper is due during Session 13.
 
-*Student Example*
+*Student Examples*
 
 {{% resource_link "4c1e7f75-e878-47f8-932a-dfe9cf6315da" "“Affirming Identity through the Ash Wednesday Ritual.” (PDF)" %}}
+
+“Running for a Lifetime.” (PDF)
 
 Note: Student examples appear courtesy of MIT students and unless otherwise requested, appear anonymously.
