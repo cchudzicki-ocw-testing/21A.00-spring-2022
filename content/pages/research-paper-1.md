@@ -16,3 +16,9 @@ For the presentations, you should just plan to tell us—in 3 minutes or less—
 If you need an extension beyond the due date to incorporate any feedback (or if you need to request an extension for any other reason), just let us know.
 
 This paper is due during Session 13.
+
+*Student Example*
+
+“Affirming Identity through the Ash Wednesday Ritual.” (PDF)
+
+Note: Student examples appear courtesy of MIT students and unless otherwise requested, appear anonymously.
