@@ -39,7 +39,7 @@ Use one or more concepts from Durkheim to explain how internet memes work, as se
 
 {{% resource_link "b0428fda-50b8-467c-8a47-7c7c91f847ff" "“Is a Meme a Totem?” (PDF)" %}}
 
-“Memes: Agents of Community Membership.” (PDF)
+{{% resource_link "53f80de3-f618-4f18-b697-84922e4ca8cb" "“Memes: Agents of Community Membership.” (PDF)" %}}
 
 **Session 15 Commentary paper**
 
