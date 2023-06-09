@@ -63,9 +63,11 @@ Recall Graeber and Wengrow’s discussion (pp. 116–17) of two aspects of ritu
 
 Reflecting on this week’s readings and our conversation with James Shen, discuss why the city is so important for understanding humanity’s past, present and future.
 
-*Student Example*
+*Student Examples*
 
 {{% resource_link "9ce75eda-a480-45a1-b6df-adb790a8c074" "“Session 21 Commentary Paper, Example 1.” (PDF)" %}}
+
+“The Urban Built Environment: A Mirror and a Laboratory Benchtop.” (PDF) (Courtesy of Arbri Kopliku. Used with permission.)
 
 **Session 23 Commentary paper**
 
