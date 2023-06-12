@@ -7,6 +7,8 @@ uid: 712067eb-91d7-44e9-85ea-7ba2af249fae
 ---
 Of the 10 prompts for 2-page (double-spaced) reading commentaries, students will select 2 each quarter (4 total). These short papers should address specific passages or sections of the readings (include page numbers for any quotations), and will serve as the basis for discussion throughout the semester. To facilitate discussion this should be submitted by 10 AM for the session listed.
 
+Note: Student examples appear courtesy of MIT students and unless otherwise requested, appear anonymously.
+
 **Session 4 Commentary paper**
 
 Compare the experiences of cultural contact described in *The Dawn of Everything* with the “[First Contact](https://www.imdb.com/title/tt0085544/?ref_=nv_sr_srsg_4).” With allowances made for different historical circumstances, what similarities do you notice? Is there evidence of an indigenous critique?
@@ -82,5 +84,3 @@ Reflecting on this week’s readings and our conversation with James Shen, discu
 {{% resource_link "91c9325f-78bb-4669-8e47-e0bb69220bf9" "“Nomadland: A Tale of Sharp Contrasts and of Blurry Conclusions.” (PDF)" %}} (Courtesy of Arbri Kopliku. Used with permission.)
 
 {{% resource_link "176fd472-c4e6-4e2a-9f91-56d39940c8c9" "“Fern Chooses Freedom: The Positivity in Getting Unstuck.” (PDF)" %}}
-
-Note: Student examples appear courtesy of MIT students and unless otherwise requested, appear anonymously.
