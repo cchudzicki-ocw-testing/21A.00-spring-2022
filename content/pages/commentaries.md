@@ -81,4 +81,6 @@ Reflecting on this week’s readings and our conversation with James Shen, discu
 
 {{% resource_link "91c9325f-78bb-4669-8e47-e0bb69220bf9" "“Nomadland: A Tale of Sharp Contrasts and of Blurry Conclusions.” (PDF)" %}} (Courtesy of Arbri Kopliku. Used with permission.)
 
+“Fern Chooses Freedom: The Positivity in Getting Unstuck.” (PDF)
+
 Note: Student examples appear courtesy of MIT students and unless otherwise requested, appear anonymously.
