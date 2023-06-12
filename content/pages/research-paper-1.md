@@ -23,4 +23,6 @@ This paper is due during Session 13.
 
 “Running for a Lifetime.” (PDF)
 
+“Devotional: Anthropological Ritual Analysis.” (PDF)
+
 Note: Student examples appear courtesy of MIT students and unless otherwise requested, appear anonymously.
