@@ -25,6 +25,6 @@ This paper is due during Session 13.
 
 {{% resource_link "2820f7de-e062-41ba-919b-0c2a97acfa99" "“Devotional: Anthropological Ritual Analysis.” (PDF)" %}}
 
-“Uniforms in the Air Force.” (PDF)
+{{% resource_link "550ab72d-8275-40ff-8748-07193538b9e7" "“Uniforms in the Air Force.” (PDF)" %}}
 
 Note: Student examples appear courtesy of MIT students and unless otherwise requested, appear anonymously.
