@@ -9,7 +9,7 @@ Of the 10 prompts for 2-page (double-spaced) reading commentaries, students will
 
 **Session 4 Commentary paper**
 
-Compare the experiences of cultural contact described in *The Dawn of Everything* with the 
+Compare the experiences of cultural contact described in *The Dawn of Everything* with the
 
 [*First Contact*](https://www.imdb.com/title/tt0085544/?ref_=nv_sr_srsg_4). With allowances made for different historical circumstances, what similarities do you notice? Is there evidence of an indigenous critique?
 
@@ -65,7 +65,7 @@ Recall Graeber and Wengrow’s discussion (pp. 116–17) of two aspects of ritu
 
 **Session 21 Commentary paper**
 
-Reflecting on this week’s readings and our conversation with James Shen, discuss why the city is so important for understanding humanity’s past, present and future.
+Reflecting on this week’s readings and our conversation with James Shen, discuss why the city is so important for understanding humanity’s past, present, and future.
 
 *Student Examples*
 
@@ -75,9 +75,7 @@ Reflecting on this week’s readings and our conversation with James Shen, discu
 
 **Session 23 Commentary paper**
 
-*The* *Dawn of Everything* ends on a note of optimism about humanity’s prospects for “getting unstuck” from restrictive/repressive social formations. Does 
-
-[*Nomadland*](https://www.imdb.com/title/tt9770150/?ref_=fn_al_tt_1) reflect that optimism, or does it suggest a bleaker vision?
+*The* *Dawn of Everything* ends on a note of optimism about humanity’s prospects for “getting unstuck” from restrictive/repressive social formations. Does [*Nomadland*](https://www.imdb.com/title/tt9770150/?ref_=fn_al_tt_1) reflect that optimism, or does it suggest a bleaker vision?
 
 *Student Examples*
 
@@ -87,4 +85,4 @@ Reflecting on this week’s readings and our conversation with James Shen, discu
 
 {{% resource_link "176fd472-c4e6-4e2a-9f91-56d39940c8c9" "“Fern Chooses Freedom: The Positivity in Getting Unstuck.” (PDF)" %}}
 
-Note: Student examples appear courtesy of MIT students and unless otherwise requested, appear anonymously.
+Note: Student examples appear courtesy of MIT students and are anonymous unless otherwise requested.
