@@ -9,9 +9,7 @@ Of the 10 prompts for 2-page (double-spaced) reading commentaries, students will
 
 **Session 4 Commentary paper**
 
-Compare the experiences of cultural contact described in *The Dawn of Everything* with the
-
-[*First Contact*](https://www.imdb.com/title/tt0085544/?ref_=nv_sr_srsg_4). With allowances made for different historical circumstances, what similarities do you notice? Is there evidence of an indigenous critique?
+Compare the experiences of cultural contact described in *The Dawn of Everything* with [*First Contact*](https://www.imdb.com/title/tt0085544/?ref_=nv_sr_srsg_4). With allowances made for different historical circumstances, what similarities do you notice? Is there evidence of an indigenous critique?
 
 **Session 6 Commentary paper**
 
