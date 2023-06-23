@@ -7,9 +7,9 @@ uid: b97e2122-ae28-44fa-a8e0-094b4d017cac
 ---
 ### Session 1: Overview of Class
 
-### Session 2: The Problem of “Human Nature” (plus Introductions)
+### Session 2: The Problem of “Human Nature” (Plus Introductions)
 
-### Session 3: *Highlands Trilogy*, part 1
+### Session 3: *Highlands Trilogy*, Part 1
 
 *Screening:* [*First Contact*](https://www.imdb.com/title/tt0085544/?ref_=nv_sr_srsg_4). Directed by Robin Anderson and Bob Connolly. Color, 58 min. 1982.
 
@@ -51,7 +51,7 @@ uid: b97e2122-ae28-44fa-a8e0-094b4d017cac
 
 *Research paper 1 due: Ritual Ethnography (4 pages)*
 
-### Session 14: Can Rituals be Designed?
+### Session 14: Can Rituals Be Designed?
 
 ### Session 15: Ritual Workshop I: The “Ritual Design Toolkit”
 
