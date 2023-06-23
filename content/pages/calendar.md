@@ -57,7 +57,7 @@ uid: b97e2122-ae28-44fa-a8e0-094b4d017cac
 
 *Commentary paper due*
 
-### Session 16: [Peabody Museum of Archaeology & Ethnology](https://peabody.harvard.edu/home) field trip
+### Session 16: [Peabody Museum of Archaeology & Ethnology](https://peabody.harvard.edu/home) Field Trip
 
 ### Session 17: Representing and Displaying Culture
 
