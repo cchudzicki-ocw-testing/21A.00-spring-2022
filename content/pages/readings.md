@@ -67,7 +67,7 @@ No readings assigned.
 
 Gordon-Lennox, Jeltje. “The Rhyme and Reason of Ritualmaking.” Chapter 4 in *Emerging Ritual in Secular Societies: A Transdisciplinary Conversation*. Edited by Jeltje Gordon-Lennox. Jessica Kingsley Publishers, 2017. ISBN: ‎9781785920837. \[Preview with [Google Books](https://www.google.com/books/edition/Emerging_Ritual_in_Secular_Societies/NBqZDQAAQBAJ?hl=en&gbpv=1)\]
 
-Lévy, Pierre. “[Exploring the Challenge of Designing Rituals](https://www.researchgate.net/publication/295400029_Exploring_the_challenge_of_designing_rituals).” Paper presented at the 6th International Congress of International Association of Societies of Design Research, Brisbane, Australia, November 2015.
+Lévy, Pierre. “[Exploring the Challenge of Designing Rituals](https://www.researchgate.net/publication/295400029_Exploring_the_challenge_of_designing_rituals).” Paper presented at the 6<sup>th</sup> International Congress of International Association of Societies of Design Research, Brisbane, Australia, November 2015.
 
 ### Session 15: Ritual Workshop I: The “Ritual Design Toolkit”
 
